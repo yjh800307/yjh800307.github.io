@@ -1,37 +1,166 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
+#EXTM3U
+
+#TF1
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+
+#FRANCE 2
+#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
+
+#FRANCE 3
+#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 3
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
+
+#CANAL+
+#EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" tvg-country="FR" group-title="FRANCE",CANAL+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
+
+#EXTINF:-1, Canal+ Cinéma
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/2oozmKr2RRjMaoU8gTvpODGJC4G9DA3FSwiaql7-xVrUukQmDCqEi8giNQmmuwzln78GSf8SoGDBFj3n0K1FmwSpSdE5u7s43p3tEFTu_QglvOqRSw3uNM3KmySf--n0DMdHFuehIifajcZJAk6hy1Vi4MpaQbVTzQ17C-icndQ/hls/index.m3u8
+
+#EXTINF:-1, Canal+ Sport
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/jN7V0JOZuc9UnaqXDaSASem6Xj_z8GUNKuqYbcawQ6jVww_LyjaaCbHxzF5BdrN2YFtF61THgqYZh3rsyUr4gDbYe1Fn7smfEWAaR-g7uAhPq8r34aCP_YtwvIoln8HwYLSVxFFPQI7bO8NI-PiDze3kKJetN6Hyff6289gO-Ow/hls/index.m3u8
+
+#M6
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100" tvg-country="FR" group-title="FRANCE",M6
+http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
+#W9
+#EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100" tvg-country="FR" group-title="FRANCE",W9 [OFFLINE]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/w9.m3u8
+
+#TMC
+#EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="FRANCE",TMC
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
+
+#TFX
+#EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="FRANCE",TFX
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+
+#NRJ12
+#EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/NRJ12_color.png?h=100" tvg-country="FR" group-title="FRANCE",NRJ 12
+https://event1.nrjaudio.fm/hls/live/2038378/nrj_12/master.m3u8?hdnts=exp=1725024028~acl=/*~hmac=2d57e64ebaa581633fa2a2c4ea09a3056b921ee2db88006101482688a61ef57d
+
+#FRANCE 4
+#EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100" tvg-country="FR" group-title="FRANCE",France 4
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
+
+#BFM TV
+#EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100" tvg-country="FR" group-title="FRANCE",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+
+#CNEWS
+#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="FRANCE",C NEWS
+https://live-b.cf.dmcdn.net/sec2(c0MoCGctAREr9WWJbUDpo9XwpuiTmRzuDV3qAznYA80TI1UZEKaNytHs9xgsDfkEolAZoWNF0dlJ6ZKID1PuXe3UKB2hTSuppiNCNJUpdfc)/dm/3/x3b68jn/d/live-720@60.m3u8#cell=lcfb
+
+#CSTAR
+#EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" tvg-country="FR" group-title="FRANCE",CStar
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
+
+#GULLI
+#EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Gulli100x100Couleur.png?h=100" tvg-country="FR" group-title="FRANCE",Gulli
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
+
+#TF1 SERIES FILMS
+#EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="FRANCE",TF1 Séries Films
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
+
+#LA CHAÎNE L'EQUIPE
+#EXTINF:-1 tvg-chno="43" tvg-id="LEquipe21.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE",LA CHAÎNE L'ÉQUIPE
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lequipe.m3u8
+
+#6TER
+#EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100" tvg-country="FR" group-title="FRANCE",6ter [OFFLINE]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/6ter.m3u8
+
+#RMC STORY
+#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100" tvg-country="FR" group-title="FRANCE",RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+
+#CHERIE 25
+#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100" tvg-country="FR" group-title="FRANCE",Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/3/media.m3u8
+
+#PARIS PREMIERE
+#EXTINF:-1 tvg-chno="41" tvg-id="ParisPremiere.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paris_Premiere_color.png?h=100" tvg-country="FR" group-title="FRANCE",Paris Premiere
+http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
+
+#TEVA
+#EXTINF:-1 tvg-chno="40" tvg-id="Teva.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Teva_color.png?h=100" tvg-country="FR" group-title="FRANCE",TÉVA
+http://gratuittv.free.fr/Files/teva/live/playlist.m3u8
+ 
+#EXTINF:-1, RTL9
+30 tvg-id="RTL9.lu" tvg-name="RTL9" tvg-logo="https://www.free.fr/assets/s3/29_38439c7137.png" tvg-chno="30" group-title="GÉNÉRALISTE"
+http://gratuittv.free.fr/Files/rtl9/live/playlist.m3u8
+
+#EXTINF:-1, TV BREIZH
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/ygcKazK7eaRYNHxubSlnnxSlnzWdSdp0OFMpfNAe8N0ej3plmHtafJQy8IZuDG7XnV7GN5DtHSBq3NxQMzWDA6tj32Ei6Vx9lwm9HjY1m1ZhWqn7zmFCU9dp1XuIymytlXqjD4zauv3ETiDcS6JCVr7syB8VHeLJmAPQ9OZi0_Y/hls/index.m3u8
+
+#EXTINF:-1, Eurosport 1
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/lgkBxnb8gs8sDxhazPfEpnVEsMuKOcFHGETFnOwh02hIEBvjMxcxPyZMaXUiDRFDM04RF2tDiMXmbqk4ggEzah5keWfl4IRyzpa3CYumaoIh4zEMvFp7oe3yVuHIxtCpvUWnwLA9_Oxiabv8oOYYWyeKyHCn9u2Eo_RQAOeEFDM/hls/index.m3u8
+
+#EXTINF:-1, Eurosport 2
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/fxc2P889CVr3SYDNLsw22GoT78PZlGC-_zBEyEhLTbi6oiTA1O243Uqc4W3QZ5EVQIfcfWPLgjlQyuta9J206Dn26i5PpR1ayw6lXnNLaUeakJxhcDQ9hwaFzwBjPxdgC68_mzwVHeXypsbbIO89xMwXZFN-H0BjBsNr7V86eIA/hls/index.m3u8
+
+#EXTINF:-1, Bein Sports 1
+https://iptv.frembed.pro/auth/44.m3u8?token=MGmglcrAPlaOVitsxtrxPaW7TlkYywjBXnVD2U-lYMQZxjg84VfH4XuDUT4-pVaXDFahbgW9h3LVoYXKXQ5LJP5xXva27VxBlLwlP0epEB4aPAaDU-tYzAaC6bpvJP-tNDBlubIEZ9lwGVpjNHsj8O3YWvLqTafBV7lBsESYYipcMa81h-tqKErQEwKPwL8yteUY8vI88oPPY7PaUz6CeyPC2abY6nC3qFtRtg5Lgpl6q2t5JcX8ClZ5Ukd0jBEuO5oxdIBGNlLQHB-QauyLuyInfN1eXFnKzgeraTgnEHNWIff0j1Va8gMnY3B51mHfhjziN0pD6rxGJamjkZfJfrDN8h94jHCr9L0WXYl9zkz-LNCHaF59A0zmJV6w9AuVisi86P77Rkaw7OLdecsTv5Qs0wVQbleEZ5YKXwzA347SwjXYjBr4KM171gQT62UKJXv67Snf1yPByfaBA7IHYziV8VQiwOYHSbe1oULpLx0lKdiO3zYOT9ugmbGqJbXMbKIHvPV6tjCnn6eFoE6yKEPZ5fzcUTOOa_YcC0pExRw8ja2WGCyzbBL6C5f0l90N7Nbaglp3K8KRGu6xuWPL9lEP_7_noR5Ii4wZTfgHV5LHErQ4MY8-hZ-j4dtqZfJW
+
+#EXTINF:-1, Bein Sports 2
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/kbV-0UFWeq0fJKXavdVY5hfDBn7O1K-gj9FNjKIdXHzch7stHVgbuwxIcoFbqWBhdUHVao7z51duH49XWkWQo9RbVIpVMQHr7fmmkBDFo6YKvv01qTCDlA3BdfHt4NzG-xTL0MdgphJ6Cxy_DAdTvfdeRNMRVtNG1DEWU590_zs/hls/index.m3u8
+
+#EXTINF:-1, Bein Sports 3
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/Co9q7_DzfGlPx8D2SAMjCTXOKvpO9RrdZWewggqZCTmoCb777Ug0csxcB9XpzcahmJC8-YyHEHp7oRWoI9hVxnoXxUlk8vQEXou6q-Ppnx9uy51riohu7j6tr3dQCEGdX-GdYz4k2Os-axIf5jzOfUWYINexkjCsfna_0HhkSI4/hls/index.m3u8
+
+#EXTINF:-1, Action
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/MUev5ChHwM6fF4M2fVVhA9BJCTsu2Z7aUwgpPDtZa-Q6YpJkolLCCa90QSCwm_Mv7PzTydqHp-eskUeJlrf5aUFR9J-Id8Zs2CN4rksnU7NSKJj_KfKhFhHrtElywekNAhVaDFaeqdSRsbbit5KkddsEgGnUqc1-FYhEV7i9krY/hls/index.m3u8
+
+#EXTINF:-1, Paramount Channel
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/NE7_wjO63ZBlDDUcmMBczJnbEhSlFaFkpUMXDkM6j-gah4zYUrv9xkZXPvNhjdw4JgkabC0r7t8W4VF0BKdU9G0cWrgSrU8YylntfxDDYHqShgIXxAEDXoLf3_5vcGCbfit33sWVT5iEvnt0P3gLuRvl5dQCDUqHKKm-enmDUi8/hls/index.m3u8
+
+
+#EXTINF:-1 group-title="Generalista" tvg-id="RTP1" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTP1.png",RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalista" tvg-id="RTP2" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTP2.png",RTP 2
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTP3.png",RTP 3
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/Dacosta1977/IPTV_PT/main/Logos/pt_RTPMemoria.png",RTP Memória
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1, Benfica TV
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/uxo9M3eIGL_ZbyuCz7gN5kL8WMQMYoOoE3yoG1Rpau7_8R5IPuVsvk8H-mJmOEtSnmQRSVERqIJvq_ygVX8ARJwfN0tDUDUs8VR750MEgXxrU3cK324_fEP200Usp4s1uhclBLc8ovh_BCg46eG4no26I2uVBWVWqu_EL7JbUbA/hls/index.m3u8
+
+#EXTINF:-1, SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1, TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+
+#EXTINF:-1, Sport TV 1
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/AlCL1LCjwlgCWh8SjL6e5u4GhexS3o6s7mbqY4ZDkWzcX4pOcKaso-am5CTvO_4fygJyK02gCheOzF8jjKaZpWLM9tWgSoW8dfoMlnsGtJP9qLlgrF-Pj45dss-WO6sBMFiy_BSE6yRv3lrGPoOdHftqOJnUaX9jPxApIlquddI/hls/index.m3u8
+
+#EXTINF:-1, Sport TV 2
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/2hlRs9WHtcgZP88rYU207MuA1qn62EgsNzk9xQ5pCDQGMNnnme6fvboR_VdfPQ6yXQUPCYzE0wTjF8eYtaZhdj01giZgnM2g0trYiqJ0VX6HKH4MVwYz0-15sQjo6Xa_cWBu4zkKT_-QLwsmVs0ndujWHBKymUktl-WkRyvUiIc/hls/index.m3u8
+
+#EXTINF:-1, Sport TV 3
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/LDwFk7W5e0FHpTBjypZqC3cYsNR9lw3G0UDbcquQPvDRq8-z1UZikWN40ZcPvpsv493qeabvEcbqUHSTNC1UYPuU3rY5KmfX5isn2Po_6VluZhbq3Nov_BK2h5evflLS38q9PL9Ly5t7yKUKoUO6L4lj0gUm2xLygYFe_gC3Kbw/hls/index.m3u8
+
+#EXTINF:-1, Sport TV 4
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/5gUVU8BDswOICwPcMtGlMXg-SKS4ojrFwBgCg0PQqz9hPRzQnnpdhzxNy3K-285yseQ8DnXRq-v3bDMn4HBj-JbU7lEpYzA0o4PfLWOuoD379gJw3S3JlaT0jXv0kzemqYJIORfwoIkDLnqFJtIgx1RkPpICr5DDEIMWUcYVFeI/hls/index.m3u8
+
+#EXTINF:-1, Sporting TV
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/KHTrmbu4qktTCWh5QW9yWBYcfRBjrs8fCko7fhuT3GGh1pWkj_7QUlDm2U-6MTwNEZJ3gzh9o-e5Dsi2LjuUQv6kAPV84ppuwsATSTDgbghaDwO7b1oQrg5HzwR8j4u5KR2L0Om3gLNNmkU6RvULGv5EWy3p3Jk9xARi5t36CYo/hls/index.m3u8
+
+#EXTINF:-1, A Bola
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/LQdp1M-aplSkPVkgotxqFLAtjyugsLxctAcDXy661F2tZ9Dd3Jv5YaptOutaLwDyB31cyIqKUilou3YycQk7ve4ZY2foVUUrpX0M7oiCpmpOF0qRzP5skWjU6jGuDi-kXYJhWrz9pAY7Y1KzP2lSAKghNRTHA9LAhgL7Ea0pnaM/hls/index.m3u8
