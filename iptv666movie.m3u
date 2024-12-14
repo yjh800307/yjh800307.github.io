@@ -13,17 +13,17 @@ http://dns.yiandrive.com:16813/huya/11342424
 http://dns.yiandrive.com:16813/huya/26355829
 #EXTINF:-1 group-title="斗鱼" tvg-id="变种人" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",变种人
 http://dns.yiandrive.com:16813/douyu/9651304
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",茶啊二中「动画」
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",茶啊二中「动画」
 https://live.iill.top/huya/11213191
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",哆啦A梦「动漫」
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",哆啦A梦「动漫」
 https://live.iill.top/huya/11601963
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",航海王「动漫」
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",航海王「动漫」
 https://live.iill.top/huya/16913382
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",七龙珠「动漫」
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",七龙珠「动漫」
 https://live.iill.top/huya/11601966
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",猫和老鼠「动漫」
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",猫和老鼠「动漫」
 https://live.iill.top/huya/11352879
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",中华小当家「动漫」
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",中华小当家「动漫」
 https://live.iill.top/huya/11342413
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1 综合「IPV6」
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
