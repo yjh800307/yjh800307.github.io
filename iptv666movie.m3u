@@ -1,17 +1,17 @@
 影视 #genre#
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1 综合「IPV6」
-#EXTINF:-1 group-title="斗鱼" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",科幻灾难
+#EXTINF:-1 group-title="卫视频道",超级电影
+http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="斗鱼" tvg-id="科幻灾难" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",科幻灾难
 http://dns.yiandrive.com:16813/douyu/323876
-#EXTINF:-1 group-title="虎牙" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",周星星
+#EXTINF:-1 group-title="虎牙" tvg-id="周星星" tvg-logo="https://epg.iill.top/logo/虎牙.png",周星星
 http://dns.yiandrive.com:16813/huya/11342412
-#EXTINF:-1 group-title="斗鱼" tvg-id="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",豆辨高分
+#EXTINF:-1 group-title="斗鱼" tvg-id="豆辨高分" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",豆辨高分
 http://dns.yiandrive.com:16813/douyu/8770422
-#EXTINF:-1 group-title="虎牙" tvg-id="CCTV-4中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",刘德华
+#EXTINF:-1 group-title="虎牙" tvg-id="刘德华" tvg-logo="https://epg.iill.top/logo/虎牙.png",刘德华
 http://dns.yiandrive.com:16813/huya/11342424
-#EXTINF:-1 group-title="虎牙" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",超级
+#EXTINF:-1 group-title="虎牙" tvg-id="超级" tvg-logo="https://epg.iill.top/logo/虎牙.png",超级
 http://dns.yiandrive.com:16813/huya/26355829
-#EXTINF:-1 group-title="斗鱼" tvg-id="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",变种人
+#EXTINF:-1 group-title="斗鱼" tvg-id="变种人" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",变种人
 http://dns.yiandrive.com:16813/douyu/9651304
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",茶啊二中「动画」
 https://live.iill.top/huya/11213191
@@ -25,3 +25,5 @@ https://live.iill.top/huya/11601966
 https://live.iill.top/huya/11352879
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",中华小当家「动漫」
 https://live.iill.top/huya/11342413
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1 综合「IPV6」
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
