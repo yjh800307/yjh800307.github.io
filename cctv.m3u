@@ -27,10 +27,10 @@ http:/61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id=“「B站」JJ斗地主" tvg-logo="「B站」JJ斗地主.png",「B站」JJ斗地主
 http://dns.yiandrive.com:16813/bilibili/22021983
 
-#EXTINF:-1 tvg-id=“B站王者荣耀1" tvg-logo="B站王者荣耀1.png",B站王者荣耀1
+#EXTINF:-1 tvg-id=“「B站」王者荣耀1" tvg-logo="「B站」王者荣耀1.png",「B站」王者荣耀1
 http://dns.yiandrive.com:16813/bilibili/55
 
-#EXTINF:-1 tvg-id=“B站王者荣耀2" tvg-logo="B站王者荣耀2.png",B站王者荣耀2
+#EXTINF:-1 tvg-id=“「B站」王者荣耀2" tvg-logo="「B站」王者荣耀2.png",「B站」王者荣耀2
 http://dns.yiandrive.com:16813/bilibili/21654762
 
 #EXTINF:-1 tvg-id=“轻音乐" tvg-logo="轻音乐.png",轻音乐
