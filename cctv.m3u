@@ -24,6 +24,9 @@ https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 #EXTINF:-1 tvg-id="中天娱乐" tvg-logo="中天娱乐.png",中天娱乐HD
 http:/61.221.215.25:8800/hls/47/index.m3u8
 
+#EXTINF:-1 tvg-id=“「B站」JJ斗地主" tvg-logo="「B站」JJ斗地主.png",「B站」JJ斗地主
+http://dns.yiandrive.com:16813/bilibili/22021983
+
 #EXTINF:-1 tvg-id=“B站王者荣耀1" tvg-logo="B站王者荣耀1.png",B站王者荣耀1
 http://dns.yiandrive.com:16813/bilibili/55
 
