@@ -9,6 +9,15 @@ https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 tvg-id="凤凰香港" tvg-logo="凤凰香港.png",凤凰香港
 https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="CHC家庭影院.png",CHC家庭影院
+https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="CHC动作电影.png",CHC动作电影
+https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
+
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="CHC影迷电影.png",CHC影迷电影
+https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+
 #EXTINF:-1 tvg-id="中天娱乐" tvg-logo="中天娱乐.png",中天娱乐HD
 http:/61.221.215.25:8800/hls/47/index.m3u8?servicetype=1
 
