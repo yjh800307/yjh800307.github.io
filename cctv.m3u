@@ -1,7 +1,7 @@
 #EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="凤凰资讯.png",凤凰资讯
-http://220.185.72.102:9999/udp/233.50.200.192:5140
+#EXTINF:-1 tvg-id="凤凰香港" tvg-logo="凤凰香港.png",凤凰香港
+https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
 #EXTINF:-1 tvg-id="中天娱乐" tvg-logo="中天娱乐.png",中天娱乐HD
 http:/61.221.215.25:8800/hls/47/index.m3u8?servicetype=1
