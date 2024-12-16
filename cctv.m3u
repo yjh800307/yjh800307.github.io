@@ -1,8 +1,9 @@
 #EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
-#EXTINF:-1 tvg-id="cctv1" tvg-logo=“凤凰资讯”.png",凤凰资讯HD
+
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="凤凰资讯.png",凤凰资讯HD
 http://115.192.75.47:4022/udp/233.50.200.192:5140
 
-#EXTINF:-1 tvg-id=“凤凰资讯”" tvg-logo="cctv1.png",CCTV-1 综合
+#EXTINF:-1 tvg-id=“cctv1" tvg-logo="cctv1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
