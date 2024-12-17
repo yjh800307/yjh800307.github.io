@@ -17,8 +17,8 @@
 {"key":"百度资源","name":"🐝百度资源","protocol": "VOD","ext":"https://api.apibdzy.com/api.php/provide/vod/","searchable":0},
 {"key":"天空资源","name":"🐝天空资源","protocol": "VOD","ext":"https://m3u8.tiankongapi.com/api.php/provide/vod/","searchable":1},
 {"key":"新浪资源","name":"🐝新浪资源","protocol": "VOD","ext":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1},
-{"key":"樱花采集","name":"🐝樱花采集","protocol": "VOD","ext":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1},
-{"key":"樱花资源","name":"🐝樱花资源","protocol": "VOD","ext":"https://yhzy.cc/api.php/provide/vod/","searchable":1},
+{"key":"360","name":"🐝360","protocol": "VOD","ext":"https://360zy.com/api.php/provide/vod/","searchable":1},
+{"key":"华为吧","name":"🐝华为吧","protocol": "VOD","ext":"https://hw8.live/api.php/provide/vod/","searchable":1},
 
 ],
 "extensions":["https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/DRPY.zip?v26","https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/IPTV.zip?v2","https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/Alist_Ya.zip?v16","https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/APPYS.zip?v1","https://file.cubeplayer.top/Alist.zip?v=5","https://file.cubeplayer.top/Alist_VOD.zip?v=7"]}
