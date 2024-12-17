@@ -9,7 +9,7 @@
 {"key":"黑木耳","name":"🐝黑木耳","protocol": "VOD","ext":"https://www.heimuer.tv/api.php/provide/vod/","searchable":1},
 {"key":"火狐采集","name":"🐝火狐采集","protocol": "VOD","ext":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/","searchable":0},
 {"key":"量子采集","name":"🐝量子采集","protocol": "VOD","ext":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/","searchable":1},
-{"key":"无尽采集","name":"🐝无尽采集","protocol": "VOD","ext":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/","searchable":1},
+{"key":"无尽采集","name":"🐝无尽采集","protocol": "VOD","ext":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1},
 {"key":"U酷资源","name":"🐝U酷资源","protocol": "VOD","ext":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1},
 {"key":"光速资源","name":"🐝光速资源","protocol": "VOD","ext":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/","searchable":0},
 {"key":"红牛资源","name":"🐝红牛资源","protocol": "VOD","ext":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1},
