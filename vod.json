@@ -6,12 +6,11 @@
 
 {"key":"黑木耳(国内)","name":"🐝黑木耳(国内)","protocol": "VOD","ext":"https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/","searchable":1},
 {"key":"黑木耳(海外)","name":"🐝黑木耳(海外)","protocol": "VOD","ext":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/","searchable":1},
-{"key":"黑木耳","name":"🐝黑木耳","protocol": "VOD","ext":"https://www.heimuer.tv/api.php/provide/vod/","searchable":1},
+{"key":"量子采集","name":"🐝量子采集","protocol": "VOD","ext":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/","searchable":1},
 {"key":"影图资源","name":"🐝影图资源","protocol": "VOD","ext":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1},
-{"key":"艾旦资源","name":"🐝艾旦资源","protocol": "VOD","ext":"https://lovedan.net/api.php/provide/vod/","searchable":1},
-{"key":"快车资源","name":"🐝快车资源","protocol": "VOD","ext":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1},
 {"key":"百度资源","name":"🐝百度资源","protocol": "VOD","ext":"https://api.apibdzy.com/api.php/provide/vod/","searchable":0},
 {"key":"墨斗|点播","name":"🐝墨斗|点播","protocol": "VOD","ext":"https://www.mdzyapi.com/api.php/provide/vod/","searchable":1},
+{"key":"快车资源","name":"🐝快车资源","protocol": "VOD","ext":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1},
 
 
 ],
