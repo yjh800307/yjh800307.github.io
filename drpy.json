@@ -24,7 +24,7 @@
 {"key":"360","name":"🐝360","protocol": "VOD","ext":"https://360zy.com/api.php/provide/vod/","searchable":1},
 {"key":"华为吧","name":"🐝华为吧","protocol": "VOD","ext":"https://hw8.live/api.php/provide/vod/","searchable":1},
 {"key":"墨斗|点播","name":"🐝墨斗|点播","protocol": "VOD","ext":"https://www.mdzyapi.com/api.php/provide/vod/","searchable":1},
-{"key":"极速资源","name":"🐝极速资源","protocol": "VOD","ext":"https://jszyapi.com/api.php/provide/vod","searchable":1},
+{"key":"极速资源","name":"🐝极速资源","protocol": "VOD","ext":"https://jszyapi.com/api.php/provide/vod/","searchable":1},
 {"key":"卧龙资源","name":"🐝卧龙资源","protocol": "VOD","ext":"https://collect.wolongzy.cc/api.php/provide/vod","searchable":1},
 {"key":"阿里影视","name":"🐝阿里影视","protocol": "VOD","ext":"http://aliys.cn:90/api.php/provide/vod/","searchable":1},
 {"key":"爱坤资源","name":"🐝爱坤资源","protocol": "VOD","ext":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1},
