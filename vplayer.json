@@ -16,6 +16,11 @@
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
     },
     {
+      "name": "四圈|点播",
+      "type": 1,
+      "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
+    },
+    {
       "name": "华为吧|点播",
       "type": 1,
       "api": "https://hw8.live/api.php/provide/vod/"
