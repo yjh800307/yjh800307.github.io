@@ -8,6 +8,7 @@
 {"key":"影图资源","name":"🐝影图资源","protocol": "VOD","ext":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1},
 {"key":"百度资源","name":"🐝百度资源","protocol": "VOD","ext":"https://api.apibdzy.com/api.php/provide/vod/","searchable":0},
 {"key":"墨斗|点播","name":"🐝墨斗|点播","protocol": "VOD","ext":"https://www.mdzyapi.com/api.php/provide/vod/","searchable":1},
+{"key":"四圈|点播","name":"🐝四圈|点播","protocol": "VOD","ext":"https://pg.fenwe078.cf/api.php/provide/vod/","searchable":1},
 {"key":"快车资源","name":"🐝快车资源","protocol": "VOD","ext":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/from/kcm3u8/","searchable":1},
 
 
