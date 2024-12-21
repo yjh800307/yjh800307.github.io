@@ -95,9 +95,4 @@
         "name": "四圈资源",
         "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
     }
-    {
-        "name": "爱壹帆",
-        "api": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/iyftv.js",
-    },
 ]
-}
