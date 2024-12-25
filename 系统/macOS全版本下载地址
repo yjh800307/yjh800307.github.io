@@ -1,0 +1,45 @@
+
+Https://github.com/chris1111/Catalina-Recovery-HD-Partition
+
+macOS Sierra 10.12.6
+https://apps.apple.com/us/app/macos-sierra/id1127487414?mt=12
+macOS High Sierra 10.13.6
+https://apps.apple.com/us/app/macos-high-sierra/id1246284741?mt=12
+macOS Mojave 10.14.6
+https://apps.apple.com/us/app/macos-mojave/id1398502828?mt=12
+macOS Catalina 10.15.7
+https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12
+macOS Big Sur 11.7.1
+https://apps.apple.com/us/app/macos-big-sur/id1526878132?mt=12
+macOS Monterey 12.6.1
+https://apps.apple.com/us/app/macos-monterey/id1576738294?mt=12
+macOS Ventura. 13.0.1
+https://apps.apple.com/us/app/macos-ventura/id1638787999?mt=12
+
+sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/4 --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction
+sudo /Applications/Install macOS Mojave.app/Contents/Resources/createinstallmedia ?volume /Volumes/Mojave /Applications/Install macOS Mojave.app ?nointeraction
+打开终端，输入sudo+1个空格，在应用程序找到安装包，拖到终端光标位置
+然后，在末尾处（如有空格，去掉空格）我们继续输入/Contents/Resources/createinstallmedia --volume+1个空格，然后把桌面的你要安装的U盘盘符拖到终端光标位置，就是前面格式化分区你设定好的名字那个盘符
+然后按回车，之后，输入你的电脑开机密码，然后按回车
+提示确定擦除驱动器，我们输入Y，再按回车即可，安装中，这一步有时候会出现，有时候没有，应该是和当前mac系统版本有关。由于我的盘已经制作完成，过程中未截图，就借用网上他人的图片来说明演示
+
+中文网页下载地址 https://support.apple.com/zh-cn/102662
+英文网页下载地址 http://support.apple.com/en-us/HT211683
+1
+sudo /applications/install\ os\ x\ yosemite.app/contents/resources/createinstallmedia --volume /volumes/1 --applicationpath /applications/install\ os\ x\ yosemite.app --nointeraction
+2
+sudo /Applications/Install\ OS\ X\ El\ Capitan.app/contents/resources/createinstallmedia --volume /Volumes/2 --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app --nointeraction
+3
+sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/3 --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction
+备注 sudo plutil -replace CFBundleShortVersionString -string "12.6.03" /Applications/Install\ macOS\ Sierra.app/Contents/Info.plist
+4
+sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/4
+5
+sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/5
+6
+sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/6
+7
+sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/7
+8
+sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/8
+
