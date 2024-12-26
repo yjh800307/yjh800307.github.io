@@ -1,5 +1,9 @@
 openwrt更新命令 opkg update
 
+自定义OP包 https://firmware-selector.openwrt.org
+https://firmware-selector.immortalwrt.org/
+https://openwrt.ai/
+
 openwrt固件下载地址 https://github.com/sirpdboy/openwrt#
 openwrt插件下载地址 https://github.com/sirpdboy/sirpdboy-package
 
