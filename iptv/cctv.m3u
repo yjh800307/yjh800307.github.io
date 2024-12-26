@@ -9,6 +9,12 @@ https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 tvg-id="凤凰香港" tvg-logo="凤凰香港.png",凤凰香港
 https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
+#EXTINF:-1 tvg-id="超级电影" tvg-logo="超级电影.png",超级电影
+http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+
+#EXTINF:-1 tvg-id="动作电影" tvg-logo="动作电影.png",动作电影
+http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+
 #EXTINF:-1 tvg-id="AMC电影" tvg-logo="AMC电影.png",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 
