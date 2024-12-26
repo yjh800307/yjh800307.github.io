@@ -1,3 +1,4 @@
+openwrt更新命令 opkg update
 
 openwrt固件下载地址 https://github.com/sirpdboy/openwrt#
 openwrt插件下载地址 https://github.com/sirpdboy/sirpdboy-package
