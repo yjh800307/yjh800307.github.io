@@ -1,5 +1,12 @@
+sudo apt install gedit
+sudo apt install vim
+sudo apt install ./文件名。注 在文件终端地址栏命令。
+设置-安全-解锁安全设置-设置固定密码。勾选-安全-允许IP直接访问 点击应用
+wayland Xorg窗口
 
 
+
+rustdesk远程工具 https://github.com/rustdesk/rustdesk/releases
 360压缩 https://360.cn
 Qv2ray https://github.com/Qv2ray/Qv2ray/releases
 Qv2ray v2ray插件 https://github.com/v2ray/v2ray-core/releases
