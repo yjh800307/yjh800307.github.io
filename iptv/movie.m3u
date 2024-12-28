@@ -1,24 +1,25 @@
 #genre#
-#EXTINF:-1 group-title="电影频道",超级电影
-http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 group-title="电影",变形金刚
+https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4
 
-#EXTINF:-1 group-title="电影频道",动作电影
-http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="电影",九品芝麻官
+https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
 
-#EXTINF:-1 group-title="斗鱼" tvg-id="科幻灾难" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",科幻灾难
-http://dns.yiandrive.com:16813/douyu/323876
+#EXTINF:-1 group-title="电影",哆啦A梦大雄与天空的理想乡
+https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4
+https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4
 
-#EXTINF:-1 group-title="虎牙" tvg-id="周星星" tvg-logo="https://epg.iill.top/logo/虎牙.png",周星星
-http://dns.yiandrive.com:16813/huya/11342412
+#EXTINF:-1 group-title="电影",寒战I
+http://dns.yiandrive.com:16813/huya/https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
 
-#EXTINF:-1 group-title="斗鱼" tvg-id="豆辨高分" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",豆辨高分
+#EXTINF:-1 group-title="电影",九品芝麻官
 http://dns.yiandrive.com:16813/douyu/8770422
 
-#EXTINF:-1 group-title="虎牙" tvg-id="刘德华" tvg-logo="https://epg.iill.top/logo/虎牙.png",刘德华
+#EXTINF:-1 group-title="电影",九品芝麻官
 http://dns.yiandrive.com:16813/huya/11342424
 
-#EXTINF:-1 group-title="虎牙" tvg-id="超级" tvg-logo="https://epg.iill.top/logo/虎牙.png",超级
+#EXTINF:-1 group-title="电影",九品芝麻官
 http://dns.yiandrive.com:16813/huya/26355829
 
-#EXTINF:-1 group-title="斗鱼" tvg-id="变种人" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",变种人
+##EXTINF:-1 group-title="电影",九品芝麻官
 http://dns.yiandrive.com:16813/douyu/9651304
