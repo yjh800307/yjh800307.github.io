@@ -1,51 +1,75 @@
 #EXTM3U
-#EXTINF:-1 group-title="国际",BBC 
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 group-title="国际",CNN
-https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
-#EXTINF:-1 group-title="国际",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",GB News
-https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 group-title="国际",Al Jazerra
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际",ABC News Live
-https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-#EXTINF:-1 group-title="国际",AXS TV Now
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="国际",Newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="国际",CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="国际",Wion News
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="国际",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title="国际",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际",Kids TV
-https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="国际",TED Conference
-https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Ted Talks 
-https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Mytime
-https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",ION Plus
-https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
-#EXTINF:-1 group-title="国际",LoveStories
-https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Travel XP
-https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Food
-https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Ondemand China
-https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="央视",CCTV1
+http://39.134.242.92:80/180000001002/00000001000000000007000000001243/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://39.134.13.35:6610/180000001001/00000001000000001001000000000050/index.m3u8?
+#EXTINF:-1 group-title="央视",CCTV3
+http://39.134.242.92:80/180000001002/00000001000000000008000000047432/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://39.134.240.3/PLTV/2/224/3221225829/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5
+http://39.134.240.3/PLTV/2/224/3221225827/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://39.134.13.35:6610/180000001001/00000001000000000008000000047442/index.m3u8?
+#EXTINF:-1 group-title="央视",CCTV6
+http://39.134.240.3/PLTV/2/224/3221225825/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://39.134.240.3/PLTV/2/224/3221225823/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV8
+http://39.134.13.35:6610/180000001001/00000001000000001001000000000056/index.m3u8?
+#EXTINF:-1 group-title="央视",CCTV9
+http://39.134.13.35:6610/180000001001/00000001000000001001000000000057/index.m3u8?
+#EXTINF:-1 group-title="央视",CCTV10
+http://39.134.13.35:6610/180000001001/00000001000000001001000000000058/index.m3u8?
+#EXTINF:-1 group-title="央视",CCTV11
+http://39.134.13.35:6610/180000001001/00000001000000001019000000352943/index.m3u8?
+#EXTINF:-1 group-title="央视",CCTV12
+http://39.134.240.3/PLTV/2/224/3221225815/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://39.134.242.92:80/180000001002/00000001000000000050000000133801/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+http://39.134.13.35:6610/180000001001/00000001000000001001000000000059/index.m3u8?
+#EXTINF:-1 group-title="央视",CCTV15
+http://39.134.242.92:80/180000001002/00000001000000000026000000446967/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV16
+http://39.134.13.35:6610/180000001001/00000001000000000085000000178450/main.m3u8?
+#EXTINF:-1 group-title="央视",CCTV17
+http://39.134.242.92:80/180000001002/00000001000000000025000000024152/index.m3u8
+#EXTINF:-1 group-title="央视",CHC家庭影院
+http://39.134.242.92:80/180000001002/00000001000000000050000000448840/main.m3u8
+#EXTINF:-1 group-title="央视",CHC影迷电影
+http://39.134.242.92:80/180000001002/00000001000000000050000000448841/main.m3u8
+#EXTINF:-1 group-title="央视",CHC动作电影
+http://39.134.242.92:80/180000001002/00000001000000000050000000448842/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-兵器科技
+http://39.134.242.92:80/180000001002/00000001000000000091000000244796/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-电视指南
+http://39.134.242.92:80/180000001002/00000001000000000091000000244797/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-风云足球
+http://39.134.242.92:80/180000001002/00000001000000000091000000244800/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-央视台球
+http://39.134.242.92:80/180000001002/00000001000000000091000000244803/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-世界地理
+http://39.134.242.92:80/180000001002/00000001000000000091000000244805/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-怀旧剧场
+http://39.134.242.92:80/180000001002/00000001000000000091000000244806/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-风云剧场
+http://39.134.242.92:80/180000001002/00000001000000000091000000244807/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-第一剧场
+http://39.134.242.92:80/180000001002/00000001000000000091000000244808/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-风云音乐
+http://39.134.242.92:80/180000001002/00000001000000000091000000244809/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-女性时尚
+http://39.134.242.92:80/180000001002/00000001000000000091000000244811/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-高尔夫网球
+http://39.134.242.92:80/180000001002/00000001000000000091000000244801/main.m3u8
+#EXTINF:-1 group-title="央视",CCTV-央视文化精品
+http://39.134.242.92:80/180000001002/00000001000000000091000000244810/main.m3u8
+#EXTINF:-1 group-title="央视",中国教育
+http://39.134.13.35:6610/180000001001/00000001000000000016000000007220/index.m3u8?
+#EXTINF:-1 group-title="央视",CGTN新闻
+http://39.134.240.3/PLTV/2/224/3221225950/index.m3u8
+#EXTINF:-1 group-title="央视",CGTN纪录
+http://39.134.240.3/PLTV/2/224/3221225936/index.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://39.134.13.35:6610/180000001001/00000001000000000007000000001242/index.m3u8?
