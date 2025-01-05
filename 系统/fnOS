@@ -2,3 +2,5 @@ fnOS官网 https://fnnas.com/
 aria2安装 认证密钥 fnos
 Docker安装openwrt 镜像选择  zzsrv/openwrt
 Docker安装istoreos 镜像选择  soroke/istoreos
+Docker镜像地址添加 https://jkfdsf2u.mirror.aliyuncs.com  https://registry.docker-cn.com
+
