@@ -1,0 +1,8 @@
+
+iodrive2 ubuntu与Debian驱动命令
+git clone https://github.com/RemixVSL/iomemory-vsl
+cd iomemory-vsl
+# OPTIONAL: Checkout a specific release. Usually using main branch is correct.
+# DO THIS ONLY IF YOU'VE BEEN TOLD IT'S REQUIRED!
+# git checkout <release-tag>
+make dpkg
