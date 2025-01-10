@@ -1,5 +1,18 @@
 
 Https://github.com/chris1111/Catalina-Recovery-HD-Partition
+简单密码
+打开终端后，在终端中输入pwpolicy -clearaccountpolicies 命令，如下图所示。
+更改系统时间  终端输入：date 101112132020
+macOS官网全系列下载地址
+support.apple.com/zh-cn/HT211683
+macOS Lion 10.7
+
+macOS Mountain Lion 10.8
+
+macOS Yosemite 10.10
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Yosemite --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
+
+macOS EI Capitan 10.11
 
 macOS Sierra 10.12.6
 https://apps.apple.com/us/app/macos-sierra/id1127487414?mt=12
