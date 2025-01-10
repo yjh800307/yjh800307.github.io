@@ -1,3 +1,10 @@
+macOS fusion iomemory驱动
+https://www.osslab.com.tw/fusion-io-iofx-osx
+macbook pro2019双启动，option 启动台win+R，启动安全设置关闭，重启U盘可启动
+macOS查看efi文件命令
+diskutil list
+sudo diskutil mount disk0s1    efi文件所在硬盘位置
+macOS安装指导  https://github.com/t3rryhe/macOS
 iFen.OS X PE https://www.applex.net/threads/mac-pe19.93480/
 Https://github.com/chris1111/Catalina-Recovery-HD-Partition
 简单密码
