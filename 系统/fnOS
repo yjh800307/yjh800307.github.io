@@ -6,6 +6,16 @@ Docker安装openwrt 镜像选择  zzsrv/openwrt
 Docker安装istoreos 镜像选择  soroke/istoreos
 Docker镜像地址添加 https://jkfdsf2u.mirror.aliyuncs.com  https://registry.docker-cn.com
 
+
+ifconfig
+ip link set enp1s0 promisc on
+docker network create -d macvlan --subnet=192.168.0.0/24 --gateway=192.168.0.1 -o parent=enp1s0 openwrt
+docker run --restart always --name openwrt -d --network openwrt --privileged zzsrv/openwrt:latest /sbin/init
+docker exec -it openwrt bash
+vi /etc/config/network     i   :wq
+reboot
+强删容器 docker rm -f 容器名
+
 虚拟网卡开启命令 
 0.sudo -i 超级权限
 1.开启网卡混杂模式
@@ -25,7 +35,5 @@ docker exec -it openwrt bash
 docker exec -it 容器名 bash
 /bin/bash
 6.修改lan口ip
-vi /etc/config/network
+vi /etc/config/network     i   :wq
 7.重启
-
-opkg remove dnsmasq
