@@ -14,7 +14,7 @@ ifconfig
 更改enp1s0为你的网卡标识  
 ip link set enp1s0 promisc on
 2.创建macvlan网络 
-docker network create -d macvlan --subnet=192.168.0.3.0/24 --gateway=192.168.0.1 -o parent=enp1s0 istoreosnet(创建macvlan虚拟网卡名)
+docker network create -d macvlan --subnet=192.168.0.0/24 --gateway=192.168.0.1 -o parent=enp1s0 istoreosnet(创建macvlan虚拟网卡名)
 3.查看虚拟网上是否创建成功
 4.创建容器并连接到macvlan网络 
 docker run --restart always --容器名 -d --network istoreosnet(虚拟网卡名) --privileged 镜像名 /sbin/init
