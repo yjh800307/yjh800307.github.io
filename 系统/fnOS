@@ -17,7 +17,7 @@ ip link set enp1s0 promisc on
 docker network create -d macvlan --subnet=192.168.0.0/24 --gateway=192.168.0.1 -o parent=enp1s0 openwrt(创建macvlan虚拟网卡名)
 3.查看虚拟网上是否创建成功
 4.创建容器并连接到macvlan网络 
-docker run --restart always --name openwrt -d --network openwrt --privileged soroke/istoreos:21.02.2-2022071510-x86-64 /sbin/init
+docker run --restart always --name openwrt -d --network openwrt --privileged sulinggg/openwrt:amd64 /sbin/init
 docker run --restart always --name openwrt -d --network openwrt --privileged sulinggg/openwrt:amd64 /sbin/init
 docker run --restart always --openwrt(容器名) -d --network openwrt(虚拟网卡名) --privileged soroke/istoreos:21.02.2-2022071510-x86-64(镜像名) /sbin/init
 5.进入容器内部
