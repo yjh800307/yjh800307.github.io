@@ -6,6 +6,12 @@ Docker安装openwrt 镜像选择  zzsrv/openwrt
 Docker安装istoreos 镜像选择  soroke/istoreos
 Docker镜像地址添加 https://jkfdsf2u.mirror.aliyuncs.com  https://registry.docker-cn.com
 
+ifconfig
+ip link set enp3s0 promisc on
+docker network create -d macvlan --subnet=192.168.0.0/24 --gateway=192.168.0.1 -o parent=enp3s0 openwrt
+docker run --restart always --name openwrt -d --network openwrt --privileged zzsrv/openwrt:latest /sbin/init
+docker exec -it openwrt bash
+vi /etc/config/network     i   :wq
 
 ifconfig
 ip link set enp1s0 promisc on
