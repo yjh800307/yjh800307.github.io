@@ -281,3 +281,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
 http://120.76.248.139/live/bfgd/4200000094.m3u8
+
+#EXTINF:-1 tvg-id="唐伯虎点秋香" tvg-logo="唐伯虎点秋香.png",唐伯虎点秋香
+https://v3.dious.cc/20220419/fgAtfUew/index.m3u8
+
+#EXTINF:-1 tvg-id="鹿鼎记" tvg-logo="鹿鼎记.png",鹿鼎记
+https://v3.dious.cc/20220329/ELzhdaDW/index.m3u8
