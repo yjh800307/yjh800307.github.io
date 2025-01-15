@@ -3,9 +3,9 @@
    "default":1,
    "data":[
   {
-    "key": "量子资源",
-    "name": "量子资源",
-    "api": "http://cj.lziapi.com/api.php/provide/vod/",
+    "key": "黑木耳|国内",
+    "name": "黑木耳|国内",
+    "api": "https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -15,11 +15,11 @@
     "id": 1
   },
   {
-    "key": "非凡资源",
-    "name": "非凡资源",
-    "api": "http://www.ffzy.tv/api.php/provide/vod/",
+    "key": "探探|点播",
+    "name": "探探|点播",
+    "api": "https://apittzy.com/api.php/provide/vod/",
     "download": "",
-    "jiexiUrl": "https://ffzyplayer.com/?url=",
+    "jiexiUrl": "",
     "group": "默认",
     "status": true,
     "isActive": true,
@@ -27,9 +27,9 @@
     "id": 2
   },
   {
-    "key": "明帝影视",
-    "name": "明帝影视",
-    "api": "https://ys.md214.cn/api.php/provide/vod/",
+    "key": "番号|点播",
+    "name": "番号|点播",
+    "api": "http://fhapi9.com/api.php/provide/vod",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
