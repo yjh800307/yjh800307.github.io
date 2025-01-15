@@ -75,9 +75,9 @@
     "id": 6
   },
   {
-    "key": "卧龙资源",
-    "name": "卧龙资源",
-    "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+    "key": "色猫|点播",
+    "name": "色猫|点播",
+    "api": "https://api.maozyapi.com/inc/apijson_vod.php",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
