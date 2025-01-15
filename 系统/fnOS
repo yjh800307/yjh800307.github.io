@@ -47,3 +47,12 @@ vi /etc/config/network     i   :wq
 docker ubuntu desktop
 docker pull gotoeasy/ubuntu-desktop:latest
   
+docker run -d \
+  --name ubuntu \
+  --shm-size=512m \
+  -p 6901:6901 \
+  -e VNC_PW=123456 \
+  -u root \
+  --restart always \
+  gotoeasy/ubuntu-desktop:latest
+12345678
