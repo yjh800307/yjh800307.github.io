@@ -87,9 +87,9 @@
     "id": 7
   },
   {
-    "key": "影图影视",
-    "name": "影图影视",
-    "api": "https://cj.vodimg.top/api.php/provide/vod/",
+    "key": "美少女|点播",
+    "name": "美少女|点播",
+    "api": "https://www.msnii.com/api/xml.php",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -99,9 +99,9 @@
     "id": 8
   },
   {
-    "key": "南国资源",
-    "name": "南国资源",
-    "api": "http://api.nguonphim.tv/api.php/provide/vod/",
+    "key": "淫水机|点播",
+    "name": "淫水机|点播",
+    "api": "https://www.xrbsp.com/api/xml.php",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -111,9 +111,9 @@
     "id": 9
   },
   {
-    "key": "飞速资源",
-    "name": "飞速资源",
-    "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+    "key": "香奶儿|点播",
+    "name": "香奶儿|点播",
+    "api": "https://www.gdlsp.com/api/xml.php",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
