@@ -123,9 +123,9 @@
     "id": 10
   },
   {
-    "key": "ikun资源",
-    "name": "ikun资源",
-    "api": "https://ikunzyapi.com/api.php/provide/vod/",
+    "key": "白嫖资源",
+    "name": "白嫖资源",
+    "api": "https://www.kxgav.com/api/xml.php",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -135,9 +135,9 @@
     "id": 11
   },
    {
-    "key": "天堂资源",
-    "name": "天堂资源",
-    "api": "http://vipmv.cc/api.php/provide/vod/",
+    "key": "黄AV资源",
+    "name": "黄AV资源",
+    "api": "https://www.pgxdy.com/api/xml.php",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -147,9 +147,9 @@
     "id": 12
   }, 
   {
-    "key": "映迷影院",
-    "name": "映迷影院",
-    "api": "https://www.inmi.app/api.php/provide/vod/",
+    "key": "(番)精品资源",
+    "name": "(番)精品资源",
+    "api": "https://www.jingpinx.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -159,9 +159,9 @@
     "id": 13
   }, 
    {
-    "key": "1080资源",
-    "name": "1080资源",
-    "api": "https://1080p.tv/api.php/provide/vod",
+    "key": "(番)乐播资源",
+    "name": "(番)乐播资源",
+    "api": "https://lbapi9.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -171,9 +171,9 @@
     "id": 14
   },   
   {
-    "key": "易看资源",
-    "name": "易看资源",
-    "api": "https://api.yikanapi.com/api.php/provide/vod/",
+    "key": "(番)森林资源",
+    "name": "(番)森林资源",
+    "api": "https://slapibf.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -183,9 +183,9 @@
     "id": 15
   },
   {
-    "key": "酷点资源",
-    "name": "酷点资源",
-    "api": "https://kudianzy.com/api.php/provide/vod/",
+    "key": "(番)老鸭资源",
+    "name": "(番)老鸭资源",
+    "api": "https://api.apilyzy.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -195,9 +195,9 @@
     "id": 16
   },  
    {
-    "key": "忆梦资源",
-    "name": "忆梦资源",
-    "api": "http://anltv.cn/api.php/provide/vod/",
+    "key": "(番)91麻豆",
+    "name": "(番)91麻豆",
+    "api": "https://91md.me/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -207,9 +207,9 @@
     "id": 17
   }, 
   {
-    "key": "樱花资源",
-    "name": "樱花资源",
-    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "key": "(番)鲨鱼资源",
+    "name": "(番)鲨鱼资源",
+    "api": "https://shayuapi.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -219,9 +219,9 @@
     "id": 18
   },
   {
-    "key": "TOM资源",
-    "name": "TOM资源",
-    "api": "https://api.tomcaiji.com/api.php/provide/vod/",
+    "key": "(番)Alvin资源",
+    "name": "(番)Alvin资源",
+    "api": "http://lbapiby.com/api.php/provide/vod/at/json",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -231,9 +231,9 @@
     "id": 19
   },
   {
-    "key": "闪电资源",
-    "name": "闪电资源",
-    "api": "http://sdzyapi.com/api.php/provide/vod/",
+    "key": "(番)黄瓜资源",
+    "name": "(番)黄瓜资源",
+    "api": "https://www.zy018.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -243,9 +243,9 @@
     "id": 20
   },
   {
-    "key": "FOX资源",
-    "name": "FOX资源",
-    "api": "https://api.foxzyapi.com/api.php/provide/vod/",
+    "key": "(番)辣椒资源",
+    "name": "(番)辣椒资源",
+    "api": "https://apilj.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -255,9 +255,9 @@
     "id": 21
   }, 
   {
-    "key": "红牛资源",
-    "name": "红牛资源",
-    "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "key": "(番)奶香香",
+    "name": "(番)奶香香",
+    "api": "https://Naixxzy.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -267,9 +267,9 @@
     "id": 22
   },        
   {
-    "key": "77韩剧",
-    "name": "77韩剧",
-    "api": "https://www.77hanju.com/api.php/provide/vod/",
+    "key": "(番)草榴资源",
+    "name": "(番)草榴资源",
+    "api": "https://www.caoliuzyw.com/api.php/prodao/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -277,7 +277,31 @@
     "isActive": true,
     "type": 1,
     "id": 23
-  }                      
+  } 
+  {
+    "key": "(番)最色资源",
+    "name": "(番)最色资源",
+    "api": "https://zszyw.top/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 23
+  } 
+      {
+    "key": "皇冠",
+    "name": "皇冠",
+    "api": "https://hghhh.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 23
+  } 
 ]},
 "iptv":  {
   "default":1,
