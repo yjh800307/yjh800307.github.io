@@ -38,7 +38,7 @@
     "type": 1,
     "id": 3
   },
-   {
+  {
     "key": "玉兔|点播",
     "name": "玉兔|点播",
     "api": "https://apiyutu.com/api.php/provide/vod/",
@@ -134,7 +134,7 @@
     "type": 1,
     "id": 11
   },
-   {
+  {
     "key": "黄AV资源",
     "name": "黄AV资源",
     "api": "https://www.pgxdy.com/api/xml.php",
@@ -158,7 +158,7 @@
     "type": 1,
     "id": 13
   }, 
-   {
+  {
     "key": "(番)乐播资源",
     "name": "(番)乐播资源",
     "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -194,7 +194,7 @@
     "type": 1,
     "id": 16
   },  
-   {
+  {
     "key": "(番)91麻豆",
     "name": "(番)91麻豆",
     "api": "https://91md.me/api.php/provide/vod/",
@@ -289,7 +289,7 @@
     "isActive": true,
     "type": 1,
     "id": 24
-  }, 
+  }
 ]
 }
 }
