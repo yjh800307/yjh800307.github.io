@@ -43,3 +43,7 @@ docker exec -it 容器名 bash
 6.修改lan口ip
 vi /etc/config/network     i   :wq
 7.重启
+
+docker ubuntu desktop
+docker pull gotoeasy/ubuntu-desktop:latest
+  
