@@ -290,18 +290,6 @@
     "type": 1,
     "id": 24
   } 
-      {
-    "key": "皇冠",
-    "name": "皇冠",
-    "api": "https://hghhh.com/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 25
-  } 
 ]},
 "iptv":  {
   "default":1,
