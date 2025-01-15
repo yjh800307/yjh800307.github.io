@@ -51,9 +51,9 @@
     "id": 4
   },
   {
-    "key": "无尽资源",
-    "name": "无尽资源",
-    "api": "https://api.wujinapi.me/api.php/provide/vod/",
+    "key": "CK|点播",
+    "name": "CK|点播",
+    "api": "https://ckzy.me/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -63,9 +63,9 @@
     "id": 5
   },
   {
-    "key": "天空影院",
-    "name": "天空影院",
-    "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+    "key": "老色逼|点播",
+    "name": "老色逼|点播",
+    "api": "https://apilsbzy1.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
