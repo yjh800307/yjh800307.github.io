@@ -1,6 +1,7 @@
 https://github.com/RemixVSL/iomemory-vsl
 
 iodrive2 ubuntu与Debian驱动命令
+sudo apt install git
 git clone https://github.com/RemixVSL/iomemory-vsl
 cd iomemory-vsl
 sudo make dkms
