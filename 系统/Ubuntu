@@ -1,3 +1,30 @@
+在Ubuntu 24.04中，您可以通过以下步骤禁用3D加速：
+
+    打开终端。
+
+    编辑/etc/default/grub文件，您可以使用nano或vim编辑器，例如：
+
+sudo nano /etc/default/grub
+
+找到以下行：
+
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
+
+修改它以添加nomodeset，如下所示：
+
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset"
+
+保存并关闭文件。
+
+更新GRUB配置：
+
+    sudo update-grub
+
+    重启您的系统。
+
+这样就会禁用3D加速，并且在启动时不会加载图形驱动程序。请注意，禁用3D加速可能会影响图形性能和兼容性。如果您在图形界面中遇到问题，您可能需要重新启用3D加速。 
+
+
 sudo apt install gedit
 sudo apt install vim
 sudo apt install ./文件名。注 在文件终端地址栏命令。
