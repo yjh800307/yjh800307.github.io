@@ -1,3 +1,15 @@
+白屏解决方法
+sudo dpkg-reconfigure gdm3
+    在出现的配置界面中，选择gdm3。
+    在下一个屏幕上，选择X.Org作为显示服务器。
+    按照提示完成配置。
+    重启系统。
+请注意，如果你已经在使用X.Org，并且只是想要切换到Wayland，那么步骤是相同的，只是在选择显示服务器时选择Wayland而不是X.Org。反之亦然。
+如果你想要确认当前使用的是哪个显示服务器，可以查看/etc/gdm3/daemon.conf文件，或者检查/etc/X11/default-display-manager文件（对于X.Org）和/etc/gdm3/custom.conf（对于Wayland，如果已启用）。 
+白屏解决方法
+gedit /etc/gdm3/custom.conf
+把#WaylandEnable=false的＃去掉
+
 在Ubuntu 24.04中，您可以通过以下步骤禁用3D加速：
 
     打开终端。
