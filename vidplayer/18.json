@@ -2,6 +2,7 @@
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js","searchable":1,"searchable":1},
 {"key":"drpy_js_低端","name":"影视 | 低端","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/ddys_d.js","searchable":1},
 {"key":"drpy_js_NY影院","name":"影视 | NY影院","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NY影院.js","searchable":1},
+{"key":"墨斗|点播","name":"🐝墨斗|点播","protocol": "VOD","ext":"https://www.mdzyapi.com/api.php/provide/vod/","searchable":1},
 
 {"key":"探探资源","name":"(国)探探资源","protocol": "VOD","ext":"https://apittzy.com/api.php/provide/vod/","searchable":1},
 {"key":"番号资源","name":"(国)番号资源","protocol": "VOD","ext":"http://fhapi9.com/api.php/provide/vod","searchable":1},
