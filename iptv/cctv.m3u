@@ -18,63 +18,6 @@ http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile
 #EXTINF:-1 tvg-id="AMC电影" tvg-logo="AMC电影.png",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="CHC家庭影院.png",CHC家庭影院
-https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
-
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="CHC动作电影.png",CHC动作电影
-https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
-
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="CHC影迷电影.png",CHC影迷电影
-https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
-
-#EXTINF:-1 tvg-id=贝爷MAX" tvg-logo="贝爷MAX.png",贝爷MAX
-http://jiaojirentv.top/2020/dy.php?id=4332
-
-#EXTINF:-1 tvg-id=贝爷影厅" tvg-logo="贝爷影厅.png",贝爷影厅
-http://jiaojirentv.top/2020/dy.php?id=252802
-
-#EXTINF:-1 tvg-id=漫威影院" tvg-logo="漫威影院.png",漫威影院
-http://jiaojirentv.top/2020/dy.php?id=6140589
-
-#EXTINF:-1 tvg-id=变种人" tvg-logo="变种人.png",变种人
-http://jiaojirentv.top/2020/dy.php?id=9651304
-
-#EXTINF:-1 tvg-id=霍格沃茨" tvg-logo="霍格沃茨.png",霍格沃茨
-http://jiaojirentv.top/2020/dy.php?id=8814650
-
-#EXTINF:-1 tvg-id="欧美大片" tvg-logo="欧美大片.png",欧美大片
-http://jiaojirentv.top/2020/dy.php?id=2793084
-
-#EXTINF:-1 tvg-id="豆瓣高分" tvg-logo="豆瓣高分.png",豆瓣高分
-http://jiaojirentv.top/2020/dy.php?id=8770422
-
-#EXTINF:-1 tvg-id="邵氏影院" tvg-logo="邵氏影院.png",邵氏影院
-http://jiaojirentv.top/2020/dy.php?id=4246519
-
-#EXTINF:-1 tvg-id="小宇" tvg-logo="小宇.png",小宇
-http://jiaojirentv.top/2020/dy.php?id=323876
-
-#EXTINF:-1 tvg-id="可乐" tvg-logo="可乐.png",可乐
-http://jiaojirentv.top/2020/dy.php?id=20415
-
-#EXTINF:-1 tvg-id="神乐剧场" tvg-logo="神乐剧场.png",神乐剧场
-http://jiaojirentv.top/2020/dy.php?id=85894
-
-#EXTINF:-1 tvg-id="神乐剧院" tvg-logo="神乐剧院.png",神乐剧院
-http://jiaojirentv.top/2020/dy.php?id=122402
-
-#EXTINF:-1 tvg-id="美剧连续剧" tvg-logo="美剧连续剧.png",美剧连续剧
-http://jiaojirentv.top/2020/dy.php?id=1979257
-
-#EXTINF:-1 tvg-id="吃滴米虫" tvg-logo="吃滴米虫.png",吃滴米虫
-http://jiaojirentv.top/2020/dy.php?id=315457
-
-#EXTINF:-1 tvg-id="吃奶滴虫" tvg-logo="吃奶滴虫.png",吃奶滴虫
-http://jiaojirentv.top/2020/dy.php?id=263824
-
-#EXTINF:-1 tvg-id="鱼宝恐怖" tvg-logo="鱼宝恐怖.png",鱼宝恐怖
-http://jiaojirentv.top/2020/dy.php?id=1165374
-
 #EXTINF:-1 tvg-id="中天娱乐" tvg-logo="中天娱乐.png",中天娱乐HD
 http://61.221.215.25:8800/hls/47/index.m3u8
 
@@ -87,10 +30,7 @@ http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-598965631
 #EXTINF:-1 tvg-id=“「虎牙」庆余年" tvg-logo="「虎牙」庆余年.png",「虎牙」庆余年
 http://dns.yiandrive.com:15907/huya/29982639
 
-#EXTINF:-1 tvg-id=“「斗鱼」王者荣耀1" tvg-logo="「斗鱼」王者荣耀1.png",「斗鱼」王者荣耀1
-http://dns.yiandrive.com:15907/douyu/1984839
-
-#EXTINF:-1 tvg-id=“「斗鱼」王者荣耀2" tvg-logo="「斗鱼」王者荣耀2.png",「斗鱼」王者荣耀2
+#EXTINF:-1 tvg-id=“「斗鱼」王者荣耀" tvg-logo="「斗鱼」王者荣耀.png",「斗鱼」王者荣耀
 http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 #EXTINF:-1 tvg-id=“轻音乐" tvg-logo="轻音乐.png",轻音乐
