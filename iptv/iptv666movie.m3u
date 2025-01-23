@@ -13,6 +13,8 @@ http://dns.yiandrive.com:16813/huya/11342424
 http://dns.yiandrive.com:16813/huya/26355829
 #EXTINF:-1 group-title="斗鱼" tvg-id="变种人" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",变种人
 http://dns.yiandrive.com:16813/douyu/9651304
+#EXTINF:-1 group-title="斗鱼" tvg-id="漫威" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",漫威
+http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",茶啊二中「动画」
 https://live.iill.top/huya/11213191
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",哆啦A梦「动漫」
