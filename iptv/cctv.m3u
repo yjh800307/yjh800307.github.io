@@ -40,7 +40,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=134
 http://61.163.58.154:1321/ms/IPTV.php?id=139
 
 #EXTINF:-1 group-title="香港" tvg-logo="凤凰电影.png",凤凰电影
-https://stream1.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.ctv
+http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 
 #EXTINF:-1 group-title="影视" tvg-logo="超级电影.png",超级电影
 http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
