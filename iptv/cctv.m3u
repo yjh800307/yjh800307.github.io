@@ -231,10 +231,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="shandong.png",山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 
-#EXTINF:-1 tvg-id="shan1xi" tvg-logo="shan1xi.png",山西卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="shan1xi.png",山西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 
-#EXTINF:-1 tvg-id="shan3xi" tvg-logo="shan3xi.png",陕西卫视
+#EXTINF:-1 group-title="卫视" tvg-logo="shan3xi.png",陕西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 
 #EXTINF:-1 group-title="卫视" tvg-logo="shenzhen.png",深圳卫视
