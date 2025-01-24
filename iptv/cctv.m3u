@@ -261,6 +261,24 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="yunnan.png",云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 
+#EXTINF:-1 group-title="动漫" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",茶啊二中
+https://live.iill.top/huya/11213191
+
+#EXTINF:-1 group-title="动漫" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",哆啦A梦
+https://live.iill.top/huya/11601963
+
+#EXTINF:-1 group-title="动漫" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",航海王
+https://live.iill.top/huya/16913382
+
+#EXTINF:-1 group-title="动漫" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",七龙珠
+https://live.iill.top/huya/11601966
+
+#EXTINF:-1 group-title="动漫" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",猫和老鼠
+https://live.iill.top/huya/11352879
+
+#EXTINF:-1 group-title="动漫" tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="虎牙",中华小当家
+https://live.iill.top/huya/11342413
+
 #EXTINF:-1 group-title="音乐" tvg-logo="轻音乐.png",轻音乐
 http://61.221.215.25:8800/hls/49/index.m3u8
 
