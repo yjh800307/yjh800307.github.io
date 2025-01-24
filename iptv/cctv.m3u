@@ -14,13 +14,15 @@ http://61.163.58.154:1321/ms/IPTV.php?id=123
 
 #EXTINF:-1 tvg-id="香港" tvg-logo="凤凰香港.png",凤凰香港
 http://61.163.58.154:1321/ms/IPTV.php?id=125
-http://61.163.58.154:1321/ms/IPTV.php?id=150
 
 #EXTINF:-1 tvg-id="香港" tvg-logo="翡翠台.png",翡翠台
 http://61.163.58.154:1321/ms/IPTV.php?id=126
 
 #EXTINF:-1 tvg-id="香港" tvg-logo="RHK31.png",RHK31
 http://61.163.58.154:1321/ms/IPTV.php?id=149
+
+#EXTINF:-1 tvg-id="香港" tvg-logo="RHK32.png",RHK32
+http://61.163.58.154:1321/ms/IPTV.php?id=150
 
 #EXTINF:-1 tvg-id="香港" tvg-logo="NOW剧集.png",NOW剧集
 http://61.163.58.154:1321/ms/IPTV.php?id=138
@@ -31,7 +33,7 @@ http://61.163.58.154:1321/ms/IPTV.php?id=137
 #EXTINF:-1 tvg-id="香港" tvg-logo="NOW星影台.png",NOW星影台
 http://61.163.58.154:1321/ms/IPTV.php?id=134
 
-#EXTINF:-1 tvg-id="香港" tvg-logo="紫金国际.png",紫金国际
+#EXTINF:-1 tvg-id="香港" tvg-logo="NOW紫金国际.png",NOW紫金国际
 http://61.163.58.154:1321/ms/IPTV.php?id=139
 
 #EXTINF:-1 tvg-id="香港" tvg-logo="凤凰电影.png",凤凰电影
