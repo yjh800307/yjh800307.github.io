@@ -18,6 +18,8 @@ http://61.163.58.154:1321/ms/IPTV.php?id=150
 
 #EXTINF:-1 tvg-id="香港" tvg-logo="翡翠台.png",翡翠台
 http://61.163.58.154:1321/ms/IPTV.php?id=126
+
+#EXTINF:-1 tvg-id="香港" tvg-logo="RHK31.png",RHK31
 http://61.163.58.154:1321/ms/IPTV.php?id=149
 
 #EXTINF:-1 tvg-id="香港" tvg-logo="NOW剧集.png",NOW剧集
