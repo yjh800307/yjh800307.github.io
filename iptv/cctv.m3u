@@ -3,11 +3,31 @@
 #EXTINF:-1 tvg-id="香港" tvg-logo="凤凰资讯.png",凤凰资讯
 http://61.163.58.154:1321/ms/IPTV.php?id=124
 
+#EXTINF:-1 tvg-id="香港" tvg-logo="NOW新闻台.png",NOW新闻台
+http://61.163.58.154:1321/ms/IPTV.php?id=130
+
+#EXTINF:-1 tvg-id="香港" tvg-logo="NOW直播台.png",NOW直播台
+http://61.163.58.154:1321/ms/IPTV.php?id=131
+
 #EXTINF:-1 tvg-id="香港" tvg-logo="凤凰中文.png",凤凰中文
 http://61.163.58.154:1321/ms/IPTV.php?id=123
 
 #EXTINF:-1 tvg-id="香港" tvg-logo="凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/b00f0f5bc6be5b4622aefaa1e8fe4dee5787ff6179bd58a96cc662efba7c3585.ctv
+http://61.163.58.154:1321/ms/IPTV.php?id=125
+http://61.163.58.154:1321/ms/IPTV.php?id=150
+
+#EXTINF:-1 tvg-id="香港" tvg-logo="翡翠台.png",翡翠台
+http://61.163.58.154:1321/ms/IPTV.php?id=126
+http://61.163.58.154:1321/ms/IPTV.php?id=149
+
+#EXTINF:-1 tvg-id="香港" tvg-logo="NOW剧集.png",NOW剧集
+http://61.163.58.154:1321/ms/IPTV.php?id=138
+
+#EXTINF:-1 tvg-id="香港" tvg-logo="NOW华剧.png",NOW华剧
+http://61.163.58.154:1321/ms/IPTV.php?id=137
+
+#EXTINF:-1 tvg-id="香港" tvg-logo="NOW星影台.png",NOW星影台
+http://61.163.58.154:1321/ms/IPTV.php?id=134
 
 #EXTINF:-1 tvg-id="香港" tvg-logo="紫金国际.png",紫金国际
 http://61.163.58.154:1321/ms/IPTV.php?id=139
