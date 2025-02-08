@@ -15,6 +15,18 @@
     "id": 1
   },
   {
+    "key": "大地专场",
+    "name": "🔞大地采集",
+    "api": "https://dadiapi.com/api.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 1
+  }, 
+  {
     "key": "探探|点播",
     "name": "探探|点播",
     "api": "https://apittzy.com/api.php/provide/vod/",
