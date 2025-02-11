@@ -16,6 +16,19 @@
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
+        {
+            "name": "IPV6①",
+            "type": 0,
+            "url": "https://ghp.ci/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "IPV6②",
+            "type": 0,
+            "url": "https://ghp.ci/raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        }
     ],
     "sites": [
         {
