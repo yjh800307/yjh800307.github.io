@@ -159,14 +159,14 @@
             }
         },
         {
-            "key": "黑木耳",
-            "name": "黑木耳",
+            "key": "暴风",
+            "name": "暴风",
             "type": 1,
             "api": "https://www.heimuer.tv/api.php/provide/vod/"
         },
         {
-            "key": "NY",
-            "name": "NY",
+            "key": "IK",
+            "name": "IK",
             "type": 1,
             "api": "https://www.heimuer.tv/api.php/provide/vod/",
             "categories": [
