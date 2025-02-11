@@ -55,12 +55,20 @@
             "name": "墨斗",
             "type": 1,
             "api": "https://www.mdzyapi.com/api.php/provide/vod/"
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1            
         },
         {
             "key": "黑木耳",
             "name": "黑木耳",
             "type": 1,
             "api": "https://www.heimuer.tv/api.php/provide/vod/"
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1            
         },        
         {
             "key": "Dm84",
