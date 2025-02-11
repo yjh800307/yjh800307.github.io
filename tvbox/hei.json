@@ -41,24 +41,6 @@
             "filterable": 0
         },
         {
-            "key": "糯米",
-            "name": "糯米",
-            "type": 3,
-            "api": "csp_Nmyswv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "苹果",
-            "name": "苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "低端",
             "name": "低端",
             "type": 3,
