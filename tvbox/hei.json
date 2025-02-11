@@ -95,11 +95,20 @@
             "quickSearch": 1,
             "changeable": 1
         },
+        {
+            "key": "Biliych",
+            "name": "哔哔演唱会┃弹幕",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"
+                "json": "https://yjh800307.github.io/vidplayer/vod.json"
             }
         }
     ]
