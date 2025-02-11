@@ -108,7 +108,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://yjh800307.github.io/vidplayer/vod.json"
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"
             }
         }
     ]
