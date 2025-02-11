@@ -159,14 +159,14 @@
             }
         },
         {
-            "key": "暴风",
-            "name": "暴风",
+            "key": "墨斗",
+            "name": "墨斗",
             "type": 1,
-            "api": "https://www.heimuer.tv/api.php/provide/vod/"
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/"
         },
         {
-            "key": "IK",
-            "name": "IK",
+            "key": "黑木耳",
+            "name": "黑木耳",
             "type": 1,
             "api": "https://www.heimuer.tv/api.php/provide/vod/",
             "categories": [
