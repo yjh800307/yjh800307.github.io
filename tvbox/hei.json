@@ -61,7 +61,6 @@
             "name": "黑木耳",
             "type": 1,
             "api": "https://www.heimuer.tv/api.php/provide/vod/",
-            "quickSearch": 1,
         },
         {
             "key": "Biliych",
