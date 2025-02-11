@@ -3,44 +3,26 @@
 #EXTINF:-1 group-title="香港" tvg-id="香港" tvg-logo="凤凰资讯.png",凤凰资讯
 http://175.9.162.91:8989/udp/239.76.246.135:1234
 
-#EXTINF:-1 group-title="香港" tvg-logo="民视.png",民视
+#EXTINF:-1 group-title="台湾" tvg-logo="民视.png",民视
 rtmp://f13h.mine.nu/sat/tv051
 
-#EXTINF:-1 group-title="香港" tvg-logo="台视.png",台视
+#EXTINF:-1 group-title="台湾" tvg-logo="台视.png",台视
 rtmp://f13h.mine.nu/sat/tv071
 
-#EXTINF:-1 group-title="香港" tvg-logo="中视.png",中视
+#EXTINF:-1 group-title="台湾" tvg-logo="中视.png",中视
 rtmp://f13h.mine.nu/sat/tv091
 
-#EXTINF:-1 group-title="香港" tvg-logo="华视.png",华视
+#EXTINF:-1 group-title="台湾" tvg-logo="华视.png",华视
 rtmp://f13h.mine.nu/sat/tv111
 
-#EXTINF:-1 group-title="香港" tvg-logo="翡翠台.png",翡翠台
-http://61.163.58.154:1321/ms/IPTV.php?id=126
+#EXTINF:-1 group-title="台湾" tvg-logo="中天娱乐.png",中天娱乐HD
+http://61.221.215.25:8800/hls/47/index.m3u8
 
-#EXTINF:-1 group-title="香港" tvg-logo="RHK31.png",RHK31
-http://61.163.58.154:1321/ms/IPTV.php?id=149
+#EXTINF:-1 group-title="香港" tvg-logo="凤凰中文.png",凤凰中文
+http://115.201.177.12:9999/udp/233.50.200.42:5140
 
-#EXTINF:-1 group-title="香港" tvg-logo="RHK32.png",RHK32
-http://61.163.58.154:1321/ms/IPTV.php?id=150
-
-#EXTINF:-1 group-title="香港" tvg-logo="ROCKACTION.png",ROCKACTION
-http://61.163.58.154:1321/ms/IPTV.php?id=158
-
-#EXTINF:-1 group-title="香港" tvg-logo="NOW剧集.png",NOW剧集
-http://61.163.58.154:1321/ms/IPTV.php?id=138
-
-#EXTINF:-1 group-title="香港" tvg-logo="NOW华剧台.png",NOW华剧台
-http://61.163.58.154:1321/ms/IPTV.php?id=137
-
-#EXTINF:-1 group-title="香港" tvg-logo="NOW星影台.png",NOW星影台
-http://61.163.58.154:1321/ms/IPTV.php?id=134
-
-#EXTINF:-1 group-title="香港" tvg-logo="NOW紫金国际.png",NOW紫金国际
-http://61.163.58.154:1321/ms/IPTV.php?id=139
-
-#EXTINF:-1 group-title="香港" tvg-logo="凤凰电影.png",凤凰电影
-http://home.js001.com:7777/stream/channelid/884059847?profile=pass
+#EXTINF:-1 group-title="香港" tvg-logo="凤凰香港.png",凤凰香港
+http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 
 #EXTINF:-1 group-title="影视" tvg-logo="超级电影.png",超级电影
 http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -51,24 +33,13 @@ http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile
 #EXTINF:-1 group-title="影视" tvg-logo="AMC电影.png",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 
-#EXTINF:-1 group-title="台湾" tvg-logo="中天娱乐.png",中天娱乐HD
-http://61.221.215.25:8800/hls/47/index.m3u8
-
 #EXTINF:-1 group-title="BILIBILI" tvg-logo="「B站」JJ斗地主.png",「B站」JJ斗地主
 http://dns.yiandrive.com:15907/bilibili/22021983
-
-#EXTINF:-1 group-title="虎牙" tvg-logo="周星驰.png",周星驰
-http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-
-#EXTINF:-1 group-title="虎牙" tvg-logo="周星星.png",周星星
-https://www.goodiptv.club/huya/11342412
 
 #EXTINF:-1 group-title="虎牙" tvg-logo="超人.png",超人
 https://www.goodiptv.club/huya/26355829
 
 #EXTINF:-1 group-title="斗鱼" tvg-logo="王者荣耀.png",王者荣耀
-http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="斗鱼" tvg-logo="「斗鱼」王者荣耀.png",「斗鱼」王者荣耀
 http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 #EXTINF:-1 group-title="斗鱼" tvg-logo="漫威.png",漫威
