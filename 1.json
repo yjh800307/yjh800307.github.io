@@ -1,0 +1,116 @@
+{
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
+    "lives": [
+        {
+            "name": "牛播一(新版影视仓/ok影视)",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "IPV4",
+            "type": 0,
+            "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        }
+    ],
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "豆瓣推荐",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "糯米",
+            "name": "糯米",
+            "type": 3,
+            "api": "csp_Nmyswv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "苹果",
+            "name": "苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "低端",
+            "name": "低端",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "墨斗",
+            "name": "墨斗",
+            "type": 1,
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "黑木耳",
+            "name": "黑木耳",
+            "type": 1,
+            "api": "https://www.heimuer.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "Dm84",
+            "name": "巴士动漫",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Ysj",
+            "name": "异界动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Anime1",
+            "name": "日本动漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Biliych",
+            "name": "哔哔演唱会┃弹幕",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"
+            }
+        }
+    ]
+}
