@@ -6,7 +6,7 @@
 
 {"key":"(新)大地采集","name":"(新)大地采集","protocol": "VOD","ext":"https://dadiapi.com/api.php","searchable":1},
 {"key":"探探资源","name":"(国)探探资源","protocol": "VOD","ext":"https://apittzy.com/api.php/provide/vod/","searchable":1},
-{"key":"番号资源","name":"(国)番号资源","protocol": "VOD","ext":"http://fhapi9.com/api.php/provide/vod","searchable":1},
+{"key":"番号资源","name":"(国)番号资源","protocol": "VOD","ext":"http://fhapi9.com/api.php/provide/vod/at/xml","searchable":1},
 {"key":"玉兔资源","name":"(国)玉兔资源","protocol": "VOD","ext":"https://apiyutu.com/api.php/provide/vod/","searchable":0},
 {"key":"CK资源","name":"(国)CK资源","protocol": "VOD","ext":"https://ckzy.me/api.php/provide/vod/","searchable":1},
 {"key":"老色逼资源","name":"(国)老色逼资源","protocol": "VOD","ext":"https://apilsbzy1.com/api.php/provide/vod/","searchable":1},
@@ -36,8 +36,11 @@
 {"key":"丝袜资源","name":"(失效)丝袜资源","protocol": "VOD","ext":"https://siwazyw.cc/api.php/provide/vod/","searchable":1},
 {"key":"色南国","name":"(失效)色南国","protocol": "VOD","ext":"https://api.sexmguon.com/api.php/provide/vod/","searchable":1},
 {"key":"KK写真","name":"(失效)KK写真","protocol": "VOD","ext":"https://kkzy.me/api.php/provide/vod/","searchable":1},
-{"key":"易看资源","name":"(失效)易看资源","protocol": "VOD","ext":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1},
-
+{"key":"🔞点点","name":"🔞点点","protocol": "VOD","ext":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1},
+{"key":"🔞78乐播","name":"🔞78乐播","protocol": "VOD","ext":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1},
+{"key":"🔞花椒资源","name":"🔞花椒资源","protocol": "VOD","ext":"https://api.apilyzy.com/api.php/provide/vod/at/xml/","searchable":1},
+{"key":"🔞一本道资源","name":"🔞一本道资源","protocol": "VOD","ext":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":1},
+{"key":"🔞乐播","name":"🔞乐播","protocol": "VOD","ext":"https://lbapi9.com/api.php/provide/vod/at/xml/","searchable":1},
 
 ],
 "extensions":["https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/DRPY.zip?v26","https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/IPTV.zip?v2","https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/Alist_Ya.zip?v16","https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/APPYS.zip?v1","https://file.cubeplayer.top/Alist.zip?v=5","https://file.cubeplayer.top/Alist_VOD.zip?v=7"]}
