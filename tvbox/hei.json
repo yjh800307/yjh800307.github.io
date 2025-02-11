@@ -61,22 +61,8 @@
             "name": "黑木耳",
             "type": 1,
             "api": "https://www.heimuer.tv/api.php/provide/vod/at/xml/",
-        },
-        {
-            "key": "Biliych",
-            "name": "哔哔演唱会┃弹幕",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
             "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"
-            }
-        }
+            "quickSearch": 1
+        },
     ]
 }
