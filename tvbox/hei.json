@@ -61,35 +61,6 @@
             "name": "黑木耳",
             "type": 1,
             "api": "https://www.heimuer.tv/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "Dm84",
-            "name": "巴士动漫",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Ysj",
-            "name": "异界动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Anime1",
-            "name": "日本动漫",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "Biliych",
