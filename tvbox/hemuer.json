@@ -1,21 +1,137 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709373406207/fan.txt;md5;b283549a522bd5a164524d7ae4781806",
-  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
-  "sites": [
-    {
-      "key": "豆豆",
-      "name": "🌕公众号【盒子迷】",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-   {
-            "key": "haiwaikan",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
+    "lives": [
+        {
+            "name": "牛播一(新版影视仓/ok影视)",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "IPV4",
+            "type": 0,
+            "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "IPV6①",
+            "type": 0,
+            "url": "https://ghp.ci/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "IPV6②",
+            "type": 0,
+            "url": "https://ghp.ci/raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        }
+    ],
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "豆瓣推荐",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "低端",
+            "name": "低端",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "黑木耳",
             "name": "黑木耳",
             "type": 1,
-            "api": "https://www.heimuer.tv/api.php/provide/vod/at/xml",
+            "api": "https://www.heimuer.tv/api.php/provide/vod/"
+        },
+        {
+            "key": "NY",
+            "name": "NY",
+            "type": 1,
+            "api": "https://www.heimuer.tv/api.php/provide/vod/",
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "灾难片",
+                "犯罪片",
+                "悬疑片",
+                "惊悚片",
+                "奇幻片",
+                "冒险片",
+                "武侠片",
+                "其它片",
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "香港剧",
+                "台湾剧",
+                "美国剧",
+                "韩国剧",
+                "日本剧",
+                "泰国剧",
+                "港澳剧",
+                "日剧",
+                "韩剧",
+                "泰剧",
+                "海外剧",
+                "马泰剧",
+                "中漫",
+                "日漫",
+                "动漫",
+                "纪录片",
+                "动画片",
+                "动漫片",
+                "国产动漫",
+                "港台动漫",
+                "日本动漫",
+                "海外动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "动漫电影",
+                "国内综艺",
+                "港台综艺",
+                "大陆综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "海外综艺",
+                "电影解说"
+            ],
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "haiwaikan",
+            "name": "海外看(墙外)",
+            "type": 1,
+            "api": "https://haiwaikan.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1,
             "categories": [
@@ -62,9 +178,12 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
-  ]
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"
+            }
+        }
+    ]
 }
-//黑木耳 https://heimuer.tv/
-//https://json.heimuer.xyz/api.php/provide/vod/?ac=list
-//https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=妖精的尾巴
