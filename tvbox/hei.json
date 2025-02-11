@@ -41,24 +41,6 @@
             "filterable": 0
         },
         {
-            "key": "糯米",
-            "name": "糯米",
-            "type": 3,
-            "api": "csp_Nmyswv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "苹果",
-            "name": "苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "低端",
             "name": "低端",
             "type": 3,
@@ -136,31 +118,20 @@
             "quickSearch": 1
         },
         {
-            "key": "Dm84",
-            "name": "巴士动漫",
+            "key": "Biliych",
+            "name": "哔哔演唱会┃弹幕",
             "type": 3,
-            "api": "csp_Dm84",
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Ysj",
-            "name": "异界动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Anime1",
-            "name": "日本动漫",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"
+            }
+        }
     ]
 }
