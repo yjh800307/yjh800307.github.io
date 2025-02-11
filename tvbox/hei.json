@@ -60,7 +60,7 @@
             "key": "黑木耳",
             "name": "黑木耳",
             "type": 1,
-            "api": "https://www.heimuer.tv/api.php/provide/vod/",
+            "api": "https://www.heimuer.tv/api.php/provide/vod/at/xml/",
         },
         {
             "key": "Biliych",
