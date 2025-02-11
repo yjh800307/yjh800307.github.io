@@ -16,19 +16,6 @@
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
-        {
-            "name": "IPV6①",
-            "type": 0,
-            "url": "https://ghp.ci/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-            "playerType": 1
-        },
-        {
-            "name": "IPV6②",
-            "type": 0,
-            "url": "https://ghp.ci/raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
-            "playerType": 1,
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
-        }
     ],
     "sites": [
         {
@@ -55,6 +42,7 @@
             "name": "墨斗",
             "type": 1,
             "api": "https://www.mdzyapi.com/api.php/provide/vod/"
+            "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },
@@ -63,6 +51,7 @@
             "name": "黑木耳",
             "type": 1,
             "api": "https://www.heimuer.tv/api.php/provide/vod/",
+            "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },
