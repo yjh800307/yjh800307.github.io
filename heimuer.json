@@ -1,7 +1,3 @@
-
-//黑木耳 https://heimuer.tv/
-//https://json.heimuer.xyz/api.php/provide/vod/?ac=list
-//https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=妖精的尾巴
 {
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
     "lives": [
@@ -165,3 +161,7 @@
         }
     ]
 }
+
+//黑木耳 https://heimuer.tv/
+//https://json.heimuer.xyz/api.php/provide/vod/?ac=list
+//https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=妖精的尾巴
