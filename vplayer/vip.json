@@ -5,7 +5,7 @@
   },
   {
     "name" : "🐝黑木耳-国",
-    "api" : "https:\/\/www.heimuer.tv\/api.php\/provide\/vod\/at\/xml\/"
+    "api" : "https:\/\/www.heimuer.tv\/api.php\/provide\/vod\/"
   },
   {
     "name" : "墨斗|点播",
@@ -17,7 +17,7 @@
   },
   {
     "name" : "🐝黑木耳-xml",
-    "api" : "https:\/\/xml.heimuer.xyz\/api.php\/provide\/vod\/at\/xml\/"
+    "api" : "https:\/\/xml.heimuer.xyz\/api.php\/provide\/vod\/"
   },
   {
     "name" : "🐝黑木耳-番2",
