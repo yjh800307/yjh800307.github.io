@@ -8,6 +8,7 @@
 {"key":"黑木耳","name":"🐝黑木耳-番2","protocol": "VOD","ext":"https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1},
 {"key":"魔都影视","name":"🐝魔都影视","protocol": "VOD","ext":"https://www.mdzyapi.com/api.php/provide/vod/","searchable":1},
 {"key":"四圈|点播","name":"🐝四圈|点播","protocol": "VOD","ext":"https://pg.fenwe078.cf/api.php/provide/vod/","searchable":1},
+{"key":"旺旺短剧","name":"🐝旺旺短剧","protocol": "VOD","ext":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1},
 {"key":"drpy_js_在线之家","name":"影视 | 在线之家","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/在线之家.js","searchable":1},
 ],
 "extensions":["https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/DRPY.zip?v26","https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/IPTV.zip?v2","https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/Alist_Ya.zip?v16","https://github.moeyy.xyz/https://raw.githubusercontent.com/gitbox520/gao/master/lib/APPYS.zip?v1","https://file.cubeplayer.top/Alist.zip?v=5","https://file.cubeplayer.top/Alist_VOD.zip?v=7"]}
