@@ -1,0 +1,50 @@
+[
+    {
+        "name": "搜索 | 豆瓣",
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js",
+    },
+    {
+        "name": "影视 | 低端",
+        "api": "cms://ddys",
+    },
+    {
+        "name": "影视 | 在线之家",
+        "api": "cms://zxzj",
+    },
+    {
+        "name": "影视 | NY影院",
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NY影院.js"
+    },
+    {
+        "name": "🐝黑木耳-国",
+        "api": "https://www.heimuer.tv/api.php/provide/vod/"
+    },
+    {
+        "name": "🐝黑木耳-xml",
+        "api": "https://xml.heimuer.xyz/api.php/provide/vod/"
+    },
+    {
+        "name": "🐝黑木耳-番1",
+        "api": "https://json.heimuer.xyz/api.php/provide/vod/"
+    },
+    {
+        "name": "🐝黑木耳-番2",
+        "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
+    },
+    {
+        "name": "🐝魔都影视",
+        "api": "https://www.mdzyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "🐝四圈|点播",
+        "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
+    },
+    {
+        "name": "🐝旺旺短剧",
+        "api": "https://api.wwzy.tv/api.php/provide/vod/"
+    },
+    {
+        "name": "ck资源",
+        "api": "https://ckzy.me/api.php/provide/vod/"
+    }
+]
