@@ -32,6 +32,12 @@
     "api" : "https:\/\/ckzy.me\/api.php\/provide\/vod\/"
   },
   {
+    "name": "低端影视",
+    "type": 3,
+    "api": "csp_ddys",
+    "ext": "https:\/\/github.moeyy.xyz\/https:\/\/raw.githubusercontent.com\/gaotianliuyun\/gao\/master\/js\/ddys_d.js"
+  },
+  {
     "name" : "火狐|点播",
     "api" : "https:\/\/hhzyapi.com\/api.php\/provide\/vod\/"
   },
