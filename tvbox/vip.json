@@ -55,6 +55,12 @@
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
         },
         {
+            "key": "ck资源",
+            "name": "ck资源",
+            "type": 1,
+            "api": "https://ckzy.me/api.php/provide/vod/"
+        },
+        {
             "key": "🐝四圈|点播",
             "name": "🐝四圈|点播",
             "type": 1,
