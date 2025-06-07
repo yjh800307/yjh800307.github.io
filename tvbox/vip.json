@@ -4,38 +4,25 @@
             "key": "豆瓣",
             "name": "豆瓣推荐",
             "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js"
         },
         {
             "key": "低端",
             "name": "低端",
-            "api": "cms://ddys",
-            "type": 3,
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/ddys_d.js",
+            "type": 3
         },
         {
             "key": "在线之家",
             "name": "在线之家",
-            "api": "cms://zxzj",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/在线之家.js",
+            "type": 3
         },
         {
             "key": "影视 | NY影院",
             "name": "影视 | NY影院",
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NY影院.js",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "type": 3
         },
         {
             "key": "墨斗",
@@ -46,41 +33,32 @@
         {
             "key": "🐝黑木耳-国",
             "name": "🐝黑木耳-国",
-            "type": 1,
+            "type": 3,
             "api": "https://www.heimuer.tv/api.php/provide/vod/"
         },
         {
             "key": "🐝黑木耳-xml",
             "name": "🐝黑木耳-xml",
-            "type": 1,
+            "type": 3,
             "api": "https://xml.heimuer.xyz/api.php/provide/vod/"
         },
         {
             "key": "🐝黑木耳-番1",
             "name": "🐝黑木耳-番1",
             "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
+            "type": 3
         },
         {
             "key": "🐝黑木耳-番2",
             "name": "🐝黑木耳-番2",
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
+            "type": 3
         },
         {
             "key": "🐝四圈|点播",
             "name": "🐝四圈|点播",
             "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
+            "type": 3
         }
            ]
 }
