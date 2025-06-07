@@ -3,11 +3,11 @@
         {
             "key": "豆瓣",
             "name": "豆瓣推荐",
-            "api": "csp_DouDou",
             "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "低端",
@@ -40,29 +40,20 @@
         {
             "key": "墨斗",
             "name": "墨斗",
-            "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "type": 1,
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/"
         },
         {
             "key": "🐝黑木耳-国",
             "name": "🐝黑木耳-国",
-            "api": "https://www.heimuer.tv/api.php/provide/vod/",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "type": 1,
+            "api": "https://www.heimuer.tv/api.php/provide/vod/"
         },
         {
             "key": "🐝黑木耳-xml",
             "name": "🐝黑木耳-xml",
-            "api": "https://xml.heimuer.xyz/api.php/provide/vod/",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
+            "type": 1,
+            "api": "https://xml.heimuer.xyz/api.php/provide/vod/"
         },
         {
             "key": "🐝黑木耳-番1",
