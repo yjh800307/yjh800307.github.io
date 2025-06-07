@@ -59,33 +59,37 @@
             "key": "🐝黑木耳-xml",
             "name": "🐝黑木耳-xml",
             "api": "https://xml.heimuer.xyz/api.php/provide/vod/",
-            "searchable": 1,
+            "type": 3,
+            "filterable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "searchable": 1
         },
         {
             "key": "🐝黑木耳-番1",
             "name": "🐝黑木耳-番1",
-            "type": 1,
             "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-            "searchable": 1,
+            "type": 3,
+            "filterable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "searchable": 1
         },
         {
             "key": "🐝黑木耳-番2",
             "name": "🐝黑木耳-番2",
-            "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-            "searchable": 1,
+            "type": 3,
+            "filterable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "searchable": 1
         },
         {
             "key": "🐝四圈|点播",
             "name": "🐝四圈|点播",
-            "type": 1,
             "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
-        },
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1      
+        }
            ]
 }
