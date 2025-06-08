@@ -4,6 +4,14 @@
         "api": "https://json.heimuer.xyz/api.php/provide/vod/",
     },
     {
+        "name": "ck资源",
+        "api": "https://ckzy.me/api.php/provide/vod/",
+    },
+    {
+        "name": "影视 | NY影院",
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NY影院.js",
+    },
+    {
         "name": "华为吧",
         "api": "https://hw8.live/api.php/provide/vod/",
     },
