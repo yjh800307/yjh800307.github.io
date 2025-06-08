@@ -1,19 +1,15 @@
 [
     {
         "name": "搜索 | 豆瓣",
-        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js",
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js"
     },
     {
         "name": "影视 | 低端",
-        "api": "cms://ddys",
+        "api": "cms://ddys"
     },
     {
         "name": "影视 | 在线之家",
-        "api": "cms://zxzj",
-    },
-    {
-        "name": "影视 | NY影院",
-        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NY影院.js"
+        "api": "cms://zxzj"
     },
     {
         "name": "🐝黑木耳-国",
@@ -42,9 +38,5 @@
     {
         "name": "🐝旺旺短剧",
         "api": "https://api.wwzy.tv/api.php/provide/vod/"
-    },
-    {
-        "name": "ck资源",
-        "api": "https://ckzy.me/api.php/provide/vod/"
     }
 ]
