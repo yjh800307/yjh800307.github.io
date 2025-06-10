@@ -11,6 +11,6 @@
 {"key":"黑木耳","name":"🐝黑木耳-番1","protocol": "VOD","ext":"https://json.heimuer.xyz/api.php/provide/vod/","searchable":1},
 {"key":"黑木耳","name":"🐝黑木耳-番2","protocol": "VOD","ext":"https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1},
 {"key":"四圈|点播","name":"🐝四圈|点播","protocol": "VOD","ext":"https://pg.fenwe078.cf/api.php/provide/vod/","searchable":1},
-{"key":"旺旺短剧","name":"🐝旺旺短剧","protocol": "VOD","ext":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1}
+{"key":"旺旺短剧","name":"🐝旺旺短剧","protocol": "VOD","ext":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1},
 ],
 "extensions":["https://gitbox520.github.io/gao/lib/DRPY.zip?v26","https://gitbox520.github.io/gao/lib/IPTV.zip?v2","https://gitbox520.github.io/gao/lib/Alist_Ya.zip?v16","https://gitbox520.github.io/gao/lib/APPYS.zip?v1","https://file.cubeplayer.top/Alist.zip?v=5","https://file.cubeplayer.top/Alist_VOD.zip?v=7"]}
