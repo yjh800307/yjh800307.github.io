@@ -1,15 +1,6 @@
 {
   "sites": [
         {
-            "key": "豆瓣",
-            "name": "豆瓣推荐",
-            "type": 1,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
             "key": "荐片",
             "name": "荐片P2P",
             "type": 1,
@@ -25,7 +16,6 @@
             "name": "低端",
             "type": 1,
             "api": "csp_Ddrk",
-            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -35,7 +25,6 @@
             "name": "墨斗",
             "type": 1,
             "api": "https://www.mdzyapi.com/api.php/provide/vod/"
-            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -55,7 +44,6 @@
             "name": "🐝黑木耳-国2",
             "type": 1,
             "api": "https://xml02.heimuer.xyz/api.php/provide/vod/"
-            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -65,7 +53,6 @@
             "name": "🐝黑木耳-xml",
             "type": 1,
             "api": "https://xml.heimuer.xyz/api.php/provide/vod/"
-            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -75,7 +62,6 @@
             "name": "🐝黑木耳-番1",
             "type": 1,
             "api": "https://json.heimuer.xyz/api.php/provide/vod/"
-            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -85,7 +71,6 @@
             "name": "🐝黑木耳-番2",
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
-            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -95,10 +80,9 @@
             "name": "🐝四圈|点播",
             "type": 1,
             "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
-            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }
            ]
 }
