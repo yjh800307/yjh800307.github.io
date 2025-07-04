@@ -10,6 +10,12 @@ sudo dpkg-reconfigure gdm3
 gedit /etc/gdm3/custom.conf
 把#WaylandEnable=false的＃去掉
 
+sudo apt-get install linux-headers-generic build-essential dkms
+sudo apt-get update
+sudo apt-get install linux-source
+sudo apt-get install --reinstall bcmwl-kernel-source
+sudo modprobe wl
+
 在Ubuntu 24.04中，您可以通过以下步骤禁用3D加速：
 
     打开终端。
