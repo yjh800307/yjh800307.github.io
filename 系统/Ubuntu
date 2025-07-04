@@ -10,6 +10,7 @@ sudo dpkg-reconfigure gdm3
 gedit /etc/gdm3/custom.conf
 把#WaylandEnable=false的＃去掉
 
+博通无线网卡驱动安装命令
 sudo apt-get install linux-headers-generic build-essential dkms
 sudo apt-get update
 sudo apt-get install linux-source
