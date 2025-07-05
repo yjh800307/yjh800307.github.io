@@ -1,3 +1,29 @@
+sudo su
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt dist-upgrade
+sudo apt autoremove
+sudo do-release-upgrade
+
+清理旧版本的软件缓存
+sudo apt-get autoclean
+清理所有软件缓存
+duso apt-get clean
+删除系统不再使用的孤立软件
+sudo apt-get autoremove
+
+github deepin wine
+安装exFAT格式支持
+sudo apt install exfat-fuse exfat-utils
+右键管理员
+sudo apt install nautilus-admin
+nautilus -q
+appImage文件使用
+sudo apt install libfuse2
+deb安装软件
+sudo apt install gdebi
+下载dconf
+
 白屏解决方法
 sudo dpkg-reconfigure gdm3
     在出现的配置界面中，选择gdm3。
