@@ -1,0 +1,50 @@
+[
+  {
+    "name" : "四圈",
+    "api" : "https:\/\/pg.fenwe078.cf\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🐝黑木耳-国",
+    "api" : "https:\/\/www.heimuer.tv\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🐝黑木耳-国2",
+    "api" : "https:\/\/xml02.heimuer.xyz\/api.php\/provide\/vod\/"
+  },  
+  {
+    "name" : "墨斗|点播",
+    "api" : "https:\/\/www.mdzyapi.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🐝黑木耳-番1",
+    "api" : "https:\/\/json.heimuer.xyz\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🐝黑木耳-xml",
+    "api" : "https:\/\/xml.heimuer.xyz\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🐝黑木耳-番2",
+    "api" : "https:\/\/json02.heimuer.xyz\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "魔都|点播",
+    "api" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "ck|资源",
+    "api" : "https:\/\/ckzy.me\/api.php\/provide\/vod\/"
+  },
+  {
+    "name": "🐝旺旺短剧",
+    "api": "https:\/\/api.wwzy.tv\/api.php\/provide\/vod\/",
+  },
+  {
+    "name" : "火狐|点播",
+    "api" : "https:\/\/hhzyapi.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "新浪|点播",
+    "api" : "https:\/\/api.xinlangapi.com\/xinlangapi.php\/provide\/vod\/"
+  }
+]
