@@ -10,7 +10,11 @@
   {
     "name" : "🐝黑木耳-国2",
     "api" : "https:\/\/xml02.heimuer.xyz\/api.php\/provide\/vod\/"
-  },  
+  },
+  {
+    "name" : "🐝魔爪资源-国",
+    "api" : "https:\/\/mozhuazy.com\/api.php\/provide\/vod\/"
+  },
   {
     "name" : "墨斗|点播",
     "api" : "https:\/\/www.mdzyapi.com\/api.php\/provide\/vod\/"
