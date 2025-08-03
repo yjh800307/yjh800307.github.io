@@ -6,6 +6,21 @@ Docker安装openwrt 镜像选择  zzsrv/openwrt
 Docker安装istoreos 镜像选择  soroke/istoreos
 Docker镜像地址添加 https://jkfdsf2u.mirror.aliyuncs.com  https://registry.docker-cn.com
 
+安装 V2rayA 命令
+docker run -d \
+  --restart=always \
+  --privileged \
+  --network=host \
+  --name v2raya \
+  -e V2RAYA_LOG_FILE=/tmp/v2raya.log \
+  -e V2RAYA_V2RAY_BIN=/usr/local/bin/v2ray \
+  -e V2RAYA_NFTABLES_SUPPORT=off \
+  -e IPTABLES_MODE=legacy \
+  -v /lib/modules:/lib/modules:ro \
+  -v /etc/resolv.conf:/etc/resolv.conf \
+  -v /etc/v2raya:/etc/v2raya \
+  mzz2017/v2raya
+
 拉取镜像
 docker pull docker.1ms.run/zzsrv/openwrt
 
