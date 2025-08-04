@@ -9,6 +9,7 @@ radarr 拉取命令
     -e TZ="Etc/UTC" \
     -v /<host_folder_config>:/config \
     -v /<host_folder_data>:/data \
+    -v /mnt/sdb1/Movie:/mnt/sdb1/Movie \
     ghcr.io/hotio/radarr
 
 sonarr
@@ -22,6 +23,7 @@ sonarr
   -v /path/to/sonarr/data:/config \
   -v /path/to/tvseries:/tv `#optional` \
   -v /path/to/downloadclient-downloads:/downloads `#optional` \
+  -v /mnt/sdb1/TV:/mnt/sdb1/TV \
   --restart unless-stopped \
   lscr.io/linuxserver/sonarr:latest
 
