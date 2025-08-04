@@ -39,6 +39,8 @@ jackett 拉取命令
   -p 9117:9117 \
   -v /path/to/jackett/data:/config \
   -v /path/to/blackhole:/downloads \
+  -v /mnt/sdb1/Movie:/mnt/sdb1/Movie \
+  -v /mnt/sdb1/TV:/mnt/sdb1/TV \
   --restart unless-stopped \
   lscr.io/linuxserver/jackett:latest
 
