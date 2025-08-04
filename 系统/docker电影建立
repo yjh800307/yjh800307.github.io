@@ -40,5 +40,6 @@ jackett 拉取命令
   --restart unless-stopped \
   lscr.io/linuxserver/jackett:latest
 
-
+首页samba共享设置
+首页qBittorrent下载设置
     
