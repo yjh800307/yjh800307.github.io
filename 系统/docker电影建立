@@ -9,6 +9,7 @@ radarr 拉取命令
     -e TZ="Etc/UTC" \
     -v /<host_folder_config>:/config \
     -v /<host_folder_data>:/data \
+    -v /mnt/sdb1:/mnt/sdb1 \
     -v /mnt/sdb1/qb:/mnt/sdb1/qb \
     -v /mnt/sdb1/movie:/mnt/sdb1/movie \
     -v /mnt/sdb1/TV:/mnt/sdb1/TV \
