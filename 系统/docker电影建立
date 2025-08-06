@@ -1,3 +1,6 @@
+
+anti-ad.net  https://anti-ad.net/easylist.txt
+
 radarr 拉取命令
 
   docker run --rm \
