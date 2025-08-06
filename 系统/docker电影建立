@@ -1,13 +1,6 @@
 
 anti-ad.net  https://anti-ad.net/easylist.txt
-docker run -d --name AdGuard-Home4 
- -v /opt/docker/AGH_Docker4:/opt/adguardhome/work \
- -v /opt/docker/AGH_Docker4:/opt/adguardhome/conf \
- -p 54:53/tcp \
- -p 54:53/udp \
- -p 3004:3000 \
- --restart always 
-adguard/adguardhome:latest
+ADGuard Home：docker run -d --name AdGuard-Home4 -v /opt/docker/AGH_Docker4:/opt/adguardhome/work -v /opt/docker/AGH_Docker4:/opt/adguardhome/conf -p 54:53/tcp -p 54:53/udp -p 3004:3000 --restart always adguard/adguardhome:latest
 
 
 radarr 拉取命令
