@@ -44,8 +44,35 @@
             "api": "https://www.mdzyapi.com/api.php/provide/vod/"
         },
         {
-            "key": "黑木耳",
-            "name": "黑木耳",
+            "key": "heimuer1",
+            "name": "黑木耳1",
+            "type": 1,
+            "api": "https://xml.heimuer.xyz/api.php/provide/vod/"
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "heimuer2",
+            "name": "黑木耳2",
+            "type": 1,
+            "api": "https://xml02.heimuer.xyz/api.php/provide/vod/"
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "heimuer3",
+            "name": "黑木耳3",
+            "type": 1,
+            "api": "https://json.heimuer.xyz/api.php/provide/vod"
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "heimuer4",
+            "name": "黑木耳4",
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
         },
