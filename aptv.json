@@ -13,7 +13,7 @@
 {"key":"如意资源","name":"🐝如意资源","protocol": "VOD","ext":"https://cj.rycjapi.com/api.php/provide/vod","searchable":1},
 {"key":"茅台资源","name":"🐝茅台资源","protocol": "VOD","ext":"https://caiji.maotaizy.cc/api.php/provide/vod","searchable":1},
 {"key":"小猫咪资源","name":"🐝小猫咪资源","protocol": "VOD","ext":"https://zy.xmm.hk/api.php/provide/vod","searchable":1},
-{"key":"电影天堂资源","name":"🐝电影天堂资源","protocol": "VOD","ext":"http://caiji.dyttzyapi.com/api.php/provide/vod","searchable":1},
+{"key":"爱奇艺资源","name":"🐝爱奇艺资源","protocol": "VOD","ext":"https://iqiyizyapi.com/api.php/provide/vod","searchable":1},
 {"key":"黑木耳","name":"🐝黑木耳-国","protocol": "VOD","ext":"https://www.heimuer.tv/api.php/provide/vod/at/xml","searchable":1},
 {"key":"黑木耳","name":"🐝黑木耳-国2","protocol": "VOD","ext":"https://xml02.heimuer.xyz/api.php/provide/vod/at/xml","searchable":1},
 {"key":"黑木耳","name":"🐝黑木耳-xml","protocol": "VOD","ext":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml","searchable":1},
