@@ -1,37 +1,37 @@
 {
   "sites": [
     {
-      "key": "heimuer",
-      "name": "🐝黑木耳-国",
+      "key": "dbzy",
+      "name": "🐝豆瓣资源1",
       "type": 1,
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "heimuer2",
-      "name": "🐝黑木耳-国2",
+      "key": "dbzy2",
+      "name": "🐝豆瓣资源2",
       "type": 0,
-      "api": "https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "hermuer3",
-      "name": "🐝黑木耳-番1",
+      "key": "dbzy3",
+      "name": "🐝豆瓣资源3",
       "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "hermuer4",
-      "name": "🐝黑木耳-番2",
+      "key": "iqyzy",
+      "name": "🐝爱奇艺资源站",
       "type": 0,
-      "api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
