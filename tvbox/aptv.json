@@ -41,9 +41,9 @@
     },
     {
       "key": "iqyzy",
-      "name": "🐝爱奇艺资源站",
-      "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "name": "🐝爱奇艺资源站2",
+      "type": 0,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -116,6 +116,32 @@
       "isActive": true,
       "resource": 106749,
       "search": 1
+    },
+    {
+      "key": "🐝电影天堂资源",
+      "type": 1,
+      "name": "🐝电影天堂资源",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "id": "37af5e21-ad03-4b4c-8f33-215549fc0000",
+      "isActive": true,
+      "resource": 60024,
+      "search": 1
+    },
+    {
+      "key": "🐝茅台资源",
+      "type": 1,
+      "name": "🐝茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "isActive": true,
+      "id": "58409dda-cf13-45cc-9a46-42124ea3e407",
+      "resource": 98351,
+      "search": 1      
     }
   ]
 }
