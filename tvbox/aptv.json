@@ -41,7 +41,7 @@
     },
     {
       "key": "iqyzy",
-      "name": "🐝爱奇艺资源站2",
+      "name": "🐝爱奇艺资源站",
       "type": 0,
       "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
