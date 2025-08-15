@@ -1,0 +1,121 @@
+{
+  "tbl_site": [
+    {
+      "key": "dbzy",
+      "name": "🐝豆瓣资源1",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "id": "-_Qq0T1xwYGDl_LALMZha",
+      "isActive": true,
+      "resource": 97979,
+      "search": 1
+    },
+    {
+      "key": "dbzy2",
+      "name": "🐝豆瓣资源2",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "id": "NmFo4rSgnzZcuCjJ9n8-q",
+      "isActive": true,
+      "resource": 0,
+      "search": 1
+    },
+    {
+      "key": "dbzy3",
+      "name": "🐝豆瓣资源3",
+      "type": 0,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "id": "HKXWl5gORCjWD4W1bXSgn",
+      "isActive": true,
+      "resource": 0,
+      "search": 1
+    },
+    {
+      "key": "iqyzy",
+      "name": "🐝爱奇艺资源站",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "id": "RtB4lOQEM2b6TR2N7qbQQ",
+      "isActive": true,
+      "resource": 0,
+      "search": 1
+    },
+    {
+      "key": "iqyzy",
+      "name": "🐝爱奇艺资源站2",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "id": "RtB4lOQEM2b6TR2N7qbQQ",
+      "isActive": true,
+      "resource": 0,
+      "search": 1
+    },
+    {
+      "key": "mozhuazy",
+      "name": "🐝魔爪资源网",
+      "type": 0,
+      "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "id": "C9cWUxlmOud2WFPEaLhEK",
+      "isActive": true,
+      "resource": 0,
+      "search": 1
+    },
+    {
+      "key": "mozhuazy2",
+      "name": "🐝魔爪资源网2",
+      "type": 1,
+      "api": "https://mozhuazy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "id": "Gcf8vr-Ft6RSRUA0QdbfM",
+      "isActive": true,
+      "resource": 0,
+      "search": 1
+    },
+    {
+      "key": "lziapi",
+      "name": "🐝量子资源网",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "id": "D7H1jFEThzzCAvnM52SN0",
+      "isActive": true,
+      "resource": 106739,
+      "search": 1
+    },
+    {
+      "key": "lziapi2",
+      "name": "🐝量子资源网2",
+      "type": 1,
+      "api": " https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "id": "mdASMAUaeq4Zawce6WZmK",
+      "isActive": true,
+      "resource": 106749,
+      "search": 1
+    }
+  ]
+}
