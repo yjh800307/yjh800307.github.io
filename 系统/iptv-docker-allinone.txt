@@ -1,0 +1,75 @@
+https://imgtool.v1.mk/allinone.html
+
+8nci04sguq3upurfsx2l4gb2b86zmnxi
+
+https://t.me/newallinone_bot
+
+/start
+/generate
+8nci04sguq3upurfsx2l4gb2b86zmnxi
+
+userid
+7660085653
+
+token
+e14de6992ada466916a07b1e883612b02bb46fcb886ca7cf3469539f4b0318b2c8c0000b5c4a84a8f935c504685f8272804ec3ef3c08127cbe1b3b7843370a1737fa1b1de34bca
+
+直接运行命令
+./allinone_linux_amd64 -tv=true -aesKey=8nci04sguq3upurfsx2l4gb2b86zmnxi -userid=7660085653 -token=e14de6992ada466916a07b1e883612b02bb46fcb886ca7cf3469539f4b0318b2c8c0000b5c4a84a8f935c504685f8272804ec3ef3c08127cbe1b3b7843370a1737fa1b1de34bca
+
+
+PM2守护运行
+pm2 start allinone_linux_amd64 --watch --name allinone -- -tv=true -aesKey=8nci04sguq3upurfsx2l4gb2b86zmnxi -userid=7660085653 -token=e14de6992ada466916a07b1e883612b02bb46fcb886ca7cf3469539f4b0318b2c8c0000b5c4a84a8f935c504685f8272804ec3ef3c08127cbe1b3b7843370a1737fa1b1de34bca
+
+Docker运行：
+docker run -d --restart always --net=host --privileged=true --name allinone youshandefeiyang/allinone -tv=true -aesKey=8nci04sguq3upurfsx2l4gb2b86zmnxi -userid=7660085653 -token=e14de6992ada466916a07b1e883612b02bb46fcb886ca7cf3469539f4b0318b2c8c0000b5c4a84a8f935c504685f8272804ec3ef3c08127cbe1b3b7843370a1737fa1b1de34bca
+
+Docker Compose文件：
+services:
+  allinone:
+    image: youshandefeiyang/allinone
+    container_name: allinone
+    privileged: true
+    restart: always
+    network_mode: host
+    command: -tv=true -aesKey=8nci04sguq3upurfsx2l4gb2b86zmnxi -userid=7660085653 -token=e14de6992ada466916a07b1e883612b02bb46fcb886ca7cf3469539f4b0318b2c8c0000b5c4a84a8f935c504685f8272804ec3ef3c08127cbe1b3b7843370a1737fa1b1de34bca
+
+http://digihubs.xyz/2025/03/2025allinoneiptv2025.html
+IPTV守护
+services:
+   watchtower:
+     image:containrrr/watchtower
+     volumes:
+       - /var/run/docker.sock:/var/run/docker.sock
+      environment:
+        - WATCHTOWER_INTERVAL=21600
+        - WATCHTOWER_CLEANUP=true
+      restart:always
+
+
+docker run -d --name watchtower -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower
+
+
+https://pan.v1.mk/%E6%AF%8F%E6%9C%9F%E8%A7%86%E9%A2%91%E4%B8%AD%E7%94%A8%E5%88%B0%E7%9A%84%E6%96%87%E4%BB%B6%E5%88%86%E4%BA%AB/allinone%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md
+
+http://192.168.0.3:35455/tv.m3u
+BiliBili生活：
+http://192.168.0.3:35455/bililive.m3u
+虎牙一起看：
+http://192.168.0.3:35455/huyayqk.m3u
+斗鱼一起看：
+http://192.168.0.3:35455/douyuyqk.m3u
+YY轮播：
+http://192.168.0.3:35455/yylunbo.m3u
+
+services:
+  allinone_format:
+    image: yuexuangu/allinone_format:latest
+    container_name: allinone_format
+    restart: unless-stopped
+    pull_policy: always
+    network_mode: host # openwrt
+    ports:
+      - 35456:35456
+    volumes:
+      - /etc/allinone_format:/app/config
