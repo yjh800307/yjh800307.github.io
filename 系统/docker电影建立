@@ -2,6 +2,29 @@
 anti-ad.net  https://anti-ad.net/easylist.txt
 ADGuard Home：docker run -d --name AdGuard-Home4 -v /opt/docker/AGH_Docker4:/opt/adguardhome/work -v /opt/docker/AGH_Docker4:/opt/adguardhome/conf -p 54:53/tcp -p 54:53/udp -p 3004:3000 --restart always adguard/adguardhome:latest
 
+moontv 命令
+services:
+  moontv:
+    image: ghcr.io/senshinya/moontv:latest
+    container_name: moontv
+    restart: unless-stopped
+    ports:
+      - '3000:3000'
+    environment:
+      - PASSWORD=123456
+      - SITE_NAME=技能加点
+
+libretv 命令
+services:
+  libretv:
+    image: bestzwei/libretv:latest
+    container_name: libretv
+    ports:
+      - "8080:8080" # 将内部 8080 端口映射到主机的 8899 端口
+    environment:
+      - PASSWORD=-123456 # 可将 your_password 修改为你想要的密码，默认为 your_password
+      - ADMINPASSWORD=-123456 # 可将 your_adminpassword 修改为你想要的密码，默认为 your_adminpassword
+    restart: unless-stopped
 
 radarr 拉取命令
 
