@@ -18,5 +18,6 @@
 {"key":"猫眼资源xml","name":"🐝猫眼资源xml","protocol": "VOD","ext":"https://api.maoyanapi.top/api.php/provide/vod/at/xml/","searchable":1},
 {"key":"四圈|点播","name":"🐝四圈|点播","protocol": "VOD","ext":"https://pg.fenwe078.cf/api.php/provide/vod/","searchable":1},
 {"key":"旺旺短剧","name":"🐝旺旺短剧","protocol": "VOD","ext":"https://api.wwzy.tv/api.php/provide/vod/","searchable":1},
+{"key":"牛牛资源","name":"🐝牛牛资源","protocol": "VOD","ext":"https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml","searchable":1},
 ],
 "extensions":["https://gitbox520.github.io/gao/lib/DRPY.zip?v26","https://gitbox520.github.io/gao/lib/IPTV.zip?v2","https://gitbox520.github.io/gao/lib/Alist_Ya.zip?v16","https://gitbox520.github.io/gao/lib/APPYS.zip?v1","https://file.cubeplayer.top/Alist.zip?v=5","https://file.cubeplayer.top/Alist_VOD.zip?v=7"]}
