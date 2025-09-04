@@ -1,3 +1,7 @@
+win10 激活 搜索 powershell 输入下面命令再选择1
+irm https://get.activated.win | iex
+选项 1
+
 手动设置代理 新建桌面快捷方式，输入：ms-settings:network-proxy
 
 windows10LTSC-Add-MicrosoftStore https://github.com/R-YaTian/LTSC-Add-MicrosoftStore-2021_2024
