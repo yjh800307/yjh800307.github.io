@@ -1,7 +1,16 @@
 #EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 
 #EXTINF:-1 group-title="香港" tvg-id="香港" tvg-logo="凤凰资讯.png",凤凰资讯
-https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1757403106&token=29a1fae26a5b4d00cfd9521da83e0d86
+
+#EXTINF:-1 group-title="香港" tvg-logo="凤凰中文.png",凤凰中文
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1757403106&token=f11701b84602c58cd957d8424cf4d904
+
+#EXTINF:-1 group-title="香港" tvg-logo="凤凰香港.png",凤凰香港
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&t=1757403106&token=be2b7c54020541b56b4c7529edb83597
+
+#EXTINF:-1 group-title="台湾" tvg-logo="中天娱乐.png",中天娱乐HD
+http://61.221.215.25:8800/hls/47/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="民视.png",民视
 rtmp://f13h.mine.nu/sat/tv051
@@ -14,15 +23,6 @@ rtmp://f13h.mine.nu/sat/tv091
 
 #EXTINF:-1 group-title="台湾" tvg-logo="华视.png",华视
 rtmp://f13h.mine.nu/sat/tv111
-
-#EXTINF:-1 group-title="台湾" tvg-logo="中天娱乐.png",中天娱乐HD
-http://61.221.215.25:8800/hls/47/index.m3u8
-
-#EXTINF:-1 group-title="香港" tvg-logo="凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/fd3f587c16496807d24b3f3c58eff10439384428069068b6b822777315cbc5b6.ctv
-
-#EXTINF:-1 group-title="香港" tvg-logo="凤凰香港.png",凤凰香港
-https://epg.pw/stream/27b49ba568efc8dcc9af6a79ec06ffd4a2e354e3e2060143be83fca695edf46e.m3u8
 
 #EXTINF:-1 group-title="影视" tvg-logo="超级电影.png",超级电影
 http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
