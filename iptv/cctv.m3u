@@ -1,13 +1,19 @@
 #EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 
 #EXTINF:-1 group-title="香港" tvg-id="香港" tvg-logo="凤凰资讯.png",凤凰资讯
-https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1757403106&token=29a1fae26a5b4d00cfd9521da83e0d86
+http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-id="香港" tvg-logo="凤凰资讯1.png",凤凰资讯1
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 #EXTINF:-1 group-title="香港" tvg-logo="凤凰中文.png",凤凰中文
-https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1757403106&token=f11701b84602c58cd957d8424cf4d904
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
 #EXTINF:-1 group-title="香港" tvg-logo="凤凰香港.png",凤凰香港
-https://stream.iptv-search.com/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&t=1757403106&token=be2b7c54020541b56b4c7529edb83597
+http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="凤凰电影台.png",凤凰电影台
+https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
 
 #EXTINF:-1 group-title="香港" tvg-logo="无线新闻台.png",无线新闻台HD
 http://74.91.26.218:82/live/inews.m3u8
