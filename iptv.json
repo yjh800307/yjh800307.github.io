@@ -1,0 +1,199 @@
+#EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
+
+#EXTINF:-1 group-title="香港" tvg-id="香港" tvg-logo="凤凰资讯.png",凤凰资讯
+http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-id="香港" tvg-logo="凤凰资讯1.png",凤凰资讯1
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+
+#EXTINF:-1 group-title="香港" tvg-logo="凤凰中文.png",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+
+#EXTINF:-1 group-title="香港" tvg-logo="凤凰香港.png",凤凰香港
+http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="凤凰电影台.png",凤凰电影台
+https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
+
+#EXTINF:-1 group-title="香港" tvg-logo="无线新闻台.png",无线新闻台HD
+http://74.91.26.218:82/live/inews.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="翡翠台.png",翡翠台
+http://74.91.26.218:82/live/jade.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="美亚电影台.png",美亚电影台HD
+http://74.91.26.218:82/live/mydy.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="台视.png",台视
+http://74.91.26.218:82/live/ttv.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="民视.png",民视
+http://74.91.26.218:82/live/ftv.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="华视.png",华视
+http://74.91.26.218:82/live/cts.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="中视.png",中视
+http://74.91.26.218:82/live/ctv.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="中天娱乐.png",中天娱乐HD
+http://61.221.215.25:8800/hls/47/index.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="民视第一台.png",民视第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="中视经典.png",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="台视综合.png",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="公视.png",公视
+http://74.91.26.218:82/live/pts.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="小公视.png",小公视
+http://74.91.26.218:82/live/ptsse.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="台视财经.png",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="民视新闻.png",民视新闻
+http://74.91.26.218:82/live/ftvnews.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="台视新闻.png",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="中视新闻.png",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+
+#EXTINF:-1 group-title="台湾" tvg-logo="华视新闻.png",华视新闻
+http://74.91.26.218:82/live/ctsnews.m3u8
+
+#EXTINF:-1 group-title="NOW" tvg-logo="NOW星影台.png",NOW星影台
+http://74.91.26.218:82/live/nowxy.m3u8
+
+#EXTINF:-1 group-title="影视" tvg-logo="天映经典.png",天映经典
+http://74.91.26.218:82/live/tyjd.m3u8
+
+#EXTINF:-1 group-title="影视" tvg-logo="AMC电影.png",AMC电影
+http://61.221.215.25:8800/hls/43/index.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv1.png",CCTV-1 综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv2.png",CCTV-2 财经
+http://74.91.26.218:82/live/cctv2hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv3.png",CCTV-3 综艺
+http://74.91.26.218:82/live/cctv3hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv4.png",CCTV-4 中文国际
+http://74.91.26.218:82/live/cctv4hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv5.png",CCTV-5 体育
+http://74.91.26.218:82/live/cctv5hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
+http://74.91.26.218:82/live/cctv5p.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv6.png",CCTV-6 电影
+http://74.91.26.218:82/live/cctv6hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv7.png",CCTV-7 国防军事
+http://74.91.26.218:82/live/cctv7hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv8.png",CCTV-8 电视剧
+http://74.91.26.218:82/live/cctv8hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctvjilu.png",CCTV-9 纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv10.png",CCTV-10 科教
+http://74.91.26.218:82/live/cctv10hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv11.png",CCTV-11 戏曲
+http://74.91.26.218:82/live/cctv11hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv12.png",CCTV-12 社会与法
+http://74.91.26.218:82/live/cctv12hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv13.png",CCTV-13 新闻
+http://74.91.26.218:82/live/cctv13hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctvchild.png",CCTV-14 少儿
+http://74.91.26.218:82/live/cctv14hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv15.png",CCTV-15 音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv16.png",CCTV-16 奥林匹克
+http://74.91.26.218:82/live/cctv16hd.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="cctv17.png",CCTV-17 农业农村
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-logo="xiamen.png",厦门卫视
+http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-logo="zhejiang.png",浙江卫视
+http://74.91.26.218:82/live/zjwshd.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-logo="hunan.png",湖南卫视
+http://74.91.26.218:82/live/hnwshd.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-logo="dongfang.png",东方卫视
+http://74.91.26.218:82/live/dfwshd.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-logo="guangdong.png",广东卫视
+http://74.91.26.218:82/live/gdwshd.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-logo="jiangsu.png",江苏卫视
+http://74.91.26.218:82/live/jswshd.m3u8
+
+#EXTINF:-1 group-title="卫视" tvg-logo="shenzhen.png",深圳卫视
+http://74.91.26.218:82/live/szwshd.m3u8
+
+#EXTINF:-1 group-title="虎牙" tvg-logo="https://epg.iill.top/logo/虎牙.png",茶啊二中
+https://www.goodiptv.club/huya/11213191
+
+#EXTINF:-1 group-title="虎牙" tvg-logo="https://epg.iill.top/logo/虎牙.png",哆啦A梦
+https://www.goodiptv.club/huya/11601963
+
+#EXTINF:-1 group-title="虎牙" tvg-logo="https://epg.iill.top/logo/虎牙.png",航海王
+https://www.goodiptv.club/huya/16913382
+
+#EXTINF:-1 group-title="虎牙"" tvg-logo="https://epg.iill.top/logo/虎牙.png",七龙珠
+https://www.goodiptv.club/huya/11601966
+
+#EXTINF:-1 group-title="虎牙" tvg-logo="https://epg.iill.top/logo/虎牙.png",猫和老鼠
+https://www.goodiptv.club/huya/11352879
+
+#EXTINF:-1 group-title="虎牙"" tvg-logo="https://epg.iill.top/logo/虎牙.png",中华小当家
+https://www.goodiptv.club/huya/11342413
+
+#EXTINF:-1 group-title="音乐" tvg-logo="轻音乐.png",轻音乐
+http://61.221.215.25:8800/hls/49/index.m3u8
+
+#EXTINF:-1 group-title="周星驰" tvg-logo="唐伯虎点秋香.png",唐伯虎点秋香
+https://v3.dious.cc/20220419/fgAtfUew/index.m3u8
+
+#EXTINF:-1 group-title="周星驰" tvg-logo="鹿鼎记.png",鹿鼎记
+https://v3.dious.cc/20220329/ELzhdaDW/index.m3u8
+
+#EXTINF:-1 group-title="周星驰" tvg-logo="九品芝麻官.png",九品芝麻官
+https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
+
+#EXTINF:-1 group-title="周星驰" tvg-logo="赌神.png",赌神
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230086603510673905_hlsb.m3u8?pkey=AAUyMbVkU7WkimubgX0RPM_gxiBDBZ0O6NjXg8fqHAfjVU3xFbWk1Mq_dhogP1fSZfTuxFuTTP4Q9geCGPwtGGOxQWCeEZMzc8A0cmLTyXrZZWUeTZQtSukPK5Y5UyZPBuM
+
+#EXTINF:-1 group-title="周星驰" tvg-logo="逃学威龙2.png",逃学威龙2
+https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
+
+#EXTINF:-1 group-title="周星驰" tvg-logo="赌侠1990.png",赌侠1990
+https://txmov2.a.kwimgs.com/upic/2021/12/27/23/BMjAyMTEyMjcyMzE0NTFfNDAzMDAxOTlfNjM2NTMxODUxMDBfMF8z_bF_Bdb9e531cd6e9c71bb366fe9c16429985.mp4
+
+#EXTINF:-1 group-title="周星驰" tvg-logo="赌侠2之上海滩赌圣.png",赌侠2之上海滩赌圣
+https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
+
+#EXTINF:-1 group-title="影视" tvg-logo="战狼.png",战狼
+https://txmov2.a.kwimgs.com/upic/2020/12/11/12/BMjAyMDEyMTExMjM1NDRfNDAzMDAxOTlfNDA1MjQ4ODkyMDBfMF8z_b_B464feff0fc15f6544ad0783222e5409f.mp4
