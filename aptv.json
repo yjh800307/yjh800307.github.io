@@ -16,5 +16,6 @@
 {"key":"新浪资源","name":"🐝新浪资源","protocol": "VOD","ext":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/","searchable":1},
 {"key":"红牛资源","name":"🐝红牛资源","protocol": "VOD","ext":"https://www.hongniuzy2.com/api.php/provide/vod/at/xml/","searchable":1},
 {"key":"光速资源","name":"🐝光速资源","protocol": "VOD","ext":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/","searchable":1},
+{"key":"魔都资源","name":"🐝魔都资源","protocol": "VOD","ext":"https://www.mdzyapi.com/api.php/provide/vod/","searchable":1},
 ],
 "extensions":["https://gitbox520.github.io/gao/lib/DRPY.zip?v26","https://gitbox520.github.io/gao/lib/IPTV.zip?v2","https://gitbox520.github.io/gao/lib/Alist_Ya.zip?v16","https://gitbox520.github.io/gao/lib/APPYS.zip?v1","https://file.cubeplayer.top/Alist.zip?v=5","https://file.cubeplayer.top/Alist_VOD.zip?v=7"]}
