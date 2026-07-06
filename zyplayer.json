@@ -1,16 +1,18 @@
 {
-  "tbl_site": [
-    {
-      "name": "杏吧资源",
-      "api": "https://xingba111.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "group": "默认",
-      "search": 1,
-      "isActive": true,
-      "type": 0,
-      "ext": "",
-      "categories": "",
-      "id": "9dda54bb-358f-4bac-b8cd-6a750e9e1bd8"
+ "sites": {
+   "default":1,
+   "data":[
+  {
+   "name": "杏吧资源",
+   "api": "https://xingba111.com/api.php/provide/vod/at/xml",
+   "playUrl": "",
+   "group": "默认",
+   "search": 1,
+   "isActive": true,
+   "type": 0,
+   "ext": "",
+   "categories": "",
+   "id": "9dda54bb-358f-4bac-b8cd-6a750e9e1bd8"
     },
     {
       "name": "极品资源",
