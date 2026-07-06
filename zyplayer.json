@@ -1,7 +1,5 @@
 {
- "sites": {
-   "default":1,
-   "data":[
+  "tbl_site": [
     {
       "name": "杏吧资源",
       "api": "https://xingba111.com/api.php/provide/vod/at/xml",
@@ -439,7 +437,6 @@
     "isActive": true,
     "type": 1,
     "id": 24
-  } 
-]
-}
+    }
+  ]
 }
