@@ -1,21 +1,6 @@
 {
   "tbl_site": [
     {
-      "key": "🐝魔都资源",
-      "name": "🐝魔都资源",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-      "download": "",
-      "jiexiUrl": "",
-      "group": "默认",
-      "status": true,
-      "isActive": true,
-      "type": 1,
-      "id": "1",
-      "search": 1,
-      "resource": 0,
-      "playUrl": ""
-    },
-    {
       "key": "大地专场",
       "name": "🔞大地采集",
       "api": "https://dadiapi.com/api.php",
@@ -348,6 +333,18 @@
       "id": "24",
       "resource": 0,
       "search": 1
+    },
+    {
+      "name": "🐝魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "6388bc73-e496-494f-9f8b-a426a9ca80d0"
     }
   ]
 }
